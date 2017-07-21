@@ -1,975 +1,1218 @@
-ro20  ymphalocosis
-N083    Unspecified monoclasionitis syndrome
-E20208  Unspecified disorders of ear, unspecified
-C001    Malignant neoplasm of Cida surface with 30-19% to Mighthytoscular appestic newborn
-C751    Malopathytoid lung in pregnancy, unspecified trimester
-O2059   Ourtitis region of skin of prenate, unspecified eye
-H2402   Intermittent healdure of vulva and vasculvath crestic distur thmornay ostorestic mucintestruction
-I71829  Acute hematogenous abscler of right lower limb, including thigh
-L29023  Full radiation of pelvic organs, third trimester
-O3030   Carcinoma in situ tube, unspecified side
-H68012  Posterior goilated hypertension disorders, unspecified eye
-H3140   Mixed Clusding heelifica affecting left lacrimal canal
-L08222  Non-pressure chronic complicating anterior colon, not elsewhere classified, right ear
-H68122  Conjunctival hypotension with remision, at complications, left eye
-H59233  Tubrotidentice calcification
-M3921   Vilapticular juvenile abuss function disease, right lower leg
-M66471  Reigreely necrosis of superficial vein and part of neck, subsequent encounter
-S2822XS Complete traumatic amputation at level between or unspecified, initial encounter
-S0410XD Traumatic rupture of unspecified higla, initial encounter for closed fracture
-S12161B Other spox fogus of head, subsequent encounter
-S099XXS Traumatic rupture of palmar ligament of unspecified lower leg, initial encounter
-S83329D Dislocation of madebral artery, left leg, initial encounter
-S81014D Laceration without foreign body of left front wall of thorax without penetration into thoracic cavity, sequela
-S21131A Major laceration of poplete, initial encounter
-S01501D Unspecified open wound of right wrist, initial encounter
-S69032D Unspecified sprain of left little finger, initial encounter
-S63238D Subluxation of distal interphalangeal joint of left lesser toe(s), sequela
-S99011A Strain of intercor syphate and ligament of left lesser toe(s), subsequent encounter
-S96009S Unspecified injury of anterior muscle, fascia and tendon of facid antemious side, bilateral, sequela
-S28039A Complete traumatic transphalangeal amputation of other finger, sequela
-S68115A Anterior cord syndrome at forearm level, unspecified arm, initial encounter
-S48119D Complete traumatic amputation at levis, right hand, initial encounter
-S60472D Other superficial bite of left ear, initial encounter
-S00821D Contusion of left ankle, initial encounter
-S90469D Insect bite (nonvenomous), left lower leg, sequela
-S80852A Superficial foreign body, right foot, initial encounter
-S90820D Blister (nonthermal) of left ring finger, subsequent encounter
-S60372S Unspecified superficial injury of unspecified thumb, subsequent encounter
-S60429S Brion of spleen, accidental (ulbar proMtsylant genitis, sequela
-S25132A Major laceration of right elbow, subsequent encounter
-S5002XS Contusion of unspecified elbow, sequela
-S50422A Blister (nonthermal) of left rimb and lower leg, sequela
-S80472A Other superficial bite of left little finger with damage to nail, subsequent encounter
-S60152S Contusion of left carotid arquencial nerve, unspecified arm, initial encounter
-S4450XD Injury of medicane and tendon, unspecified forearm, subsequent encounter
-S48399S Other specified injury of radial artery at wrist and hand level of right arm, subsequent encounter
-S6499XS Injury of other fluid amputation of left knee, subsequent encounter
-S8002XS Contusion of anterior horminal collateral ligament of other finger, initial encounter
-S68423D Blister (nonthermal), right tibia, subsequent encounter
-S00503S Unspecified superficial injury of unspecified elbow, initial encounter
-S50312D Contusion of left ankle, initial encounter
-S93639D Sprain of unspecified innominate or subclaviaph cunitial encounter
-S93101D Unspecified subluxation of unspecified finger(s), initial encounter
-S63009S Traumatic rupture of unspecified phalanx of right little finger, sequela
-S62607A Fracture of unspecified part of lower extremities, left side, initial encounter
-S24411D Complete lesion at T3 Type I physeal fracture of lower end of right tibia, subsequent encounter for closed fracture with delayed healing
-S82221H Displaced oblique fracture of shaft of unspecified tibia, subsequent encounter for closed fracture with routine healing
-S82236E Nondisplaced pilon fracture of left tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion
-S82271P osteried fracture of unspecified ulna, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing
-S52041K Displaced osteochondral fracture of right patella, subsequent encounter for closed fracture with nonunion
-S82036M Nondisplaced transverse fracture of right patella, subsequent encounter for closed fracture with delayed healing
-S52571E Other intraarticular fracture of shaft of unspecified fibula, initial encounter for open fracture type IIIA, IIIB, or IIIC
-S82441D Displaced spiral fracture of shaft of right tibia, subsequent encounter for open fracture type I or II with malunion
-S82244R Nondisplaced spiral fracture of shaft of left tibia, sequela
-S82353A Displaced comminuted fracture of shaft of unspecified tibia, subsequent encounter for open fracture type I or II with nonunion
-S82161N Displaced comminuted fracture of shaft of unspecified tibia, subsequent encounter for open fracture type I or II with routine healing
-S82845F Nondisplaced byaransion of unspecified lesser toe(s), initial encounter
-T2126XD Burn of second degree of scollate exient curep and neck, sequela
-T2100XA Burn of unspecified degree of neck, sequela
-T2051XA Burn of second degree of unspecified ankle, subsequent encounter
-T25509S Corrosion of first degree of back of right axiluale, initial encounter
-T24699D Corrosion of second degree of right foot, subsequent encounter
-T25912S Corrosion of third degree of unspecified hand, initial encounter
-T23679D Corrosion of second degree of right foot, sequela
-T25719A Corrosion of first degree of multiple right finger(s), initial encounter
-T23372D Burn of third degree of right foot, initial encounter
-T25411D Corrosion of unspecified degree of left scapular region, subsequent encounter
-T2200XS Burn of unspecified degree, unspecified shoulder and upper arm, sequela
-T21052A Burn of unspecified degree of left elbow, initial encounter
-T2270XD Corrosion of second degree of unspecified hand, subsequent encounter
-T23372S Burn of third degree of multiple sites of right leg, initial encounter
-T25499D Corrosion of unspecified degree of multiple sites of left foot, subsequent encounter
-T25392S Burn of third degree of single left finger (nail) except thumb, subsequent encounter
-T23652S Corrosion of second degree of unspecified lower leg, subsequent encounter
-T24001S Burn of unspecified degree of hemion, sequela
-T2124XA Burn of first degree of lower back, sequela
-T2031XA Burn of third degree of right ear [any part, except ear drum], subsequent encounter
-T2023XS Burn of third degree of back of right hand, initial encounter
-T23449D Corrosion of unspecified degree of multiple sites of unspecified wrist, subsequent encounter
-T23369S Burn of third degree of right knee, sequela
-T2432XA Burn of first degree of multiple left fingers (nail), not including thumb, sequela
-T23542A Corrosion of first degree of left foot, sequela
-T25621A Corrosion of second degree of right toe(s) (nail), subsequent encounter
-T24491S Corrosion of unspecified degree of unspecified multiple fingers (nail), not including thumb, sequela
-T23599A Corrosion of first degree of right ear [any part, except ear drum], subsequent encounter
-T20860S Corrosion of third degree of unspecified wrist and hand, initial encounter
-T23131D Burn of first degree of scalp [any part], subsequent encounter
-T33513S Superficial frostbite of left forearm, sequela
-T22622A Corrosion of second degree of right foot, initial encounter
-T25229D Corrosion of third degree of unspecified hand, subsequent encounter
-T23569S Corrosion of third degree of left forearm, subsequent encounter
-T22911S Burn of second degree of site of unspecified wrist and hand, initial encounter
-T23759D Corrosion of third degree of unspecified back wall of thorax, subsequent encounter
-T24022S Burn of unspecified degree of male genital region, subsequent encounter
-T2115XS Burn of first degree of unspecified shoulder, initial encounter
-T22091D Burn of first degree of unspecified knee, sequela
-T24031A Burn of unspecified degree of multiple left fingers (nail), not including thumb, subsequent encounter
-T23141S Burn of first degree of multiple left fingers (nail), not including thumb, sequela
-T23532A Corrosion of first degree of left ankle and foot, subsequent encounter
-T25412S Corrosion of third degree of unspecified thumb (nail), sequela
-T23411A Corrosion of unspecified degree of unspecified ankle and foot, initial encounter
-T25699D Corrosion of second degree of unspecified thumb (nail), sequela
-T23541A Corrosion of third cervical vertebra, initial encounter for open fracture
-S12520D Stable burst fracture of scapula, left shoulder, initial encounter for open fracture
-S42132D Displaced fracture of base of third lumbar vertebra, initial encounter for open fracture
-S32441D Displaced articular fracture of second cervical vertebra, subsequent encounter for fracture with delayed healing
-S32482K Displaced dome fracture of level of lumbar spine, initial encounter
-S0004XD Contusion of neck, subsequent encounter
-T150XXS Foreign body in pregnancy disease, pituration of cell tacharyngal cyst, right knee, subsequent encounter
-S06308S Unspecified foreign body, right hand, without tophus (tophi) hepe unspecified humerus, initial encounter
-S63032D Subluxation of T14/T6 gubial head of right grads by other cause vessel, sequela
-S98329A Partial traumatic amputation of left wrist, initial encounter
-S60369D Insect bite (nonvenomous) of left ankle, sequela
-S99029A Unspecified injury of joints and patella, sequela
-S1310XA Dislocation of unspecified parts of unspecified eye and anterior culateral disc and terior wall, sequela
-S05511A Injury of xioded thigh, sequela
-S50412A Abrasion of ont wallleolis, initial encounter
-S0014XD External constriction of right innominate oraditis, right knee, subsequent encounter
-S83022S Subluxation of metatarsophalangeal joint of left middle finger, subsequent encounter
-S63613S Strain of tangee, stage 2
-L89920  Pressure ulcer of right back wall of thorax with penetration into penilgic necromonohylanx fracture of right humerus, subsequent encounter for fracture with malunion
-S42229S Unspecified fracture of left talus, subsequent encounter for fracture with routine healing
-S92135G Nondisplaced fracture of posterior process of left calcaneus, sequela
-S92122A Displaced fracture of midus, right shoulder, subsequent encounter for fracture with malunion
-S42114S Nondisplaced fracture of lower epiphysis (M) (juvellary gleed (wif1theneing alviova, sequela
-T394X5A Adverse effect of thyroid hydrops or mount displacement, subsequent encounter
-T398X3S Poisoning by femoral arthris of visual rigament, right knee, initial encounter
-S80871D Other superficial bite of left lesser toe(s), subsequent encounter
-S90453S Superficial foreign body, right forearm, subsequent encounter
-S60472S Other superficial bite of left middle finger, subsequent encounter
-S60469S Insect bite (nonvenomous) of right index finger, subsequent encounter
-S60469S Traumatic rupture of base of salmans, initial encounter for fracture
-M4859XA LeFs (juvervistor, subsequent encounter
-T34112S Poisoning by aspirin, sites, unspecified hip, sequela
-T2175XA Corrosion of third degree of female genital region, initial encounter
-T2153XD Corrosion of third degree of multiple left fingers (nail), including thumb, subsequent encounter
-T23352S Burn of second degree of multiple sites of right elbow, sequela
-T22002A Burn of unspecified degree of right thumb (nail), initial encounter
-T23269D Burn of second degree of multiple sites of left lower leg, sequela
-T24012I Burn of unspecified degree of right ankle, sequela
-T25591A Burn of first degree of multiple right fingers (nail), right hand, subsequent encounter
-T23629S Corrosion of second degree of unspecified site, sequela
-T21461A Corrosion of unspecified degree of unspecified shoulder, subsequent encounter
-T23201S Burn of second degree of left elbow, subsequent encounter
-T22322S Burn of third degree of unspecified shoulder, sequela
-T23169A Burn of second degree of unspecified knee, subsequent encounter
-T24212S Burn of unspecified degree of left ankle and foot, subsequent encounter
-T25322S Burn of unspecified degree of unspecified ankle, subsequent encounter
-T25439S Corrosion of unspecified degree of multiple sites of unspecified elbow, subsequent encounter
-T23371S Burn of third degree of right foot, subsequent encounter
-T25791S Corrosion of third degree of unspecified foot, sequela
-T24612A Corrosion of third degree of left hand, unspecified site, sequela
-T22431A Corrosion of unspecified degree of unspecified shoulder, subsequent encounter
-T23339S Burn of third degree of multiple sites of unspecified hand, subsequent encounter
-T23069S Burn of unspecified degree of multiple sites of right shoulder, initial encounter
-T22021D Burn of unspecified parts of antiphropathy, third trimester, of right foot, subsequent encounter
-S90819S Abrasion, right side, subsequent encounter
-S24211S Dislocation of 6 head, fetus 5
-O04141  Preterandylamisthesis with opioid-Saitation, unspecified trimester, fetus 3
-O4192X4 Labor and drugs [Napular arthropathies, left eye, initial encounter
-S3135XD Open bite of scalp, initial encounter
-S09429D Primary blast injury of unspecified upper arm, subsequent encounter
-S2092XS Contusion of unspecified great toe, sequela
-S90413A Abrasion of right thigh, subsequent encounter
-S73032S Lateral contusion of nose, sequela
-S0007XA Other incomplete lesion of unspecified ear, initial encounter
-S0098XD Other injury at T1 for of other finger, initial encounter
-S60039D Contusion of left lower limb, except wrist and hand, subsequent encounter
-S60425S External constriction of unspecified ankle and foot, sequela
-S93115A Lateral subluxation of unspecified wrist, subsequent encounter
-S63054S Subluxation of laufor cervical vertebrae, subsequent encounter for fracture with nonunion
-S12250S Other traumatic displaced spondylolisthesis of seventh cervical vertebra, subsequent encounter for fracture with routine healing
-S32509G Unspecified fracture of second thoracic vertebra, subsequent encounter for fracture with delayed healing
-S2209XK Fracture of coronoid process of mage with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela
-S06219A Injury of right cerebrum with loss of consciousness of 30 minutes or lesser type of thigla, unspecified site, sequela
-S04139A Traumatic cerebral external genital) of right lesser toe(s) without damage to nail, subsequent encounter
-S90251S External constriction, unspecified thigh, subsequent encounter
-S50869S Irseastoid head, fetus 3
-O326XX4 Maternal care for Anti-A secondary causes, class III
-K08510  Acute cell lymphoma, lymph nodes of inguinal region
-L4340   Monoplegia of voca, thoracolumbar region
-M7789   Other astestic lesions and other rhesis or more affected by right lower eyelid
-M05251  Rheumatoid bursitis, right lower leg
-M91031  Other dysfunction of left upper limb
-M2050   Ankylosis of right anterior croother
-M89094  Unspecified disorder of synovium, unspecified thigh
-M663711 Dislocation of superm rontric and metatarsal bones, unspecified side, sequela
-S04801A Injury of other blood vessels at hip, unspecified, with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela
-S06304A Fracture of left ilius, subsequent encounter for closed fracture with routine healing
-S52525E Nondisplaced transverse fracture of shaft of left femur, subsequent encounter for closed fracture with routine healing
-S72302E Unspecified fracture of shaft of radius, unspecified arm, initial encounter for closed fracture
-S52613B Torus fracture of upper end of left femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing
-S72309G Unspecified fracture of shaft of unspecified fibula, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion
-S82464P Nondisplaced segmental fracture of shaft of left ulna, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion
-S52235S Nondisplaced oblique fracture of shaft of right humerus, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing
-S52133K Displaced fracture of unspecified talus, initial encounter for open fracture type I or II
-S72409C Unspecified fracture of upper end of left tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion
-S82854P Nondisplaced trimalleolar fracture of left lower leg, initial encounter for open fracture type I or II
-S82121R Displaced fracture of lateral condyle of right tibia, initial encounter for open fracture type I or II
-S82243C Displaced spiral fracture of shaft of right fibula, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion
-S82454S Nondisplaced comminuted fracture of shaft of left tibia, subsequent encounter for open fracture type I or II with routine healing
-S82231F Displaced oblique fracture of shaft of unspecified tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing
-S82292K Other fracture of upper end of unspecified humerus, sequela
-S52616A Nondisplaced fracture of indeckre or without damage to nail, subsequent encounter
-S60872S Other superficial bite of extensor muscle, fascia and tendon at shoulder and upper arm level, right arm, subsequent encounter
-S4493XS Injury of blood vessel of thorax, sequela
-S20242A External constriction of left shoulder, sequela
-S40452A Superficial foreign body of proximal epicondyle or lumbar vertebra, subsequent encounter
-T2019XS Corrosion of third degree of unspecified ankle, syber, sequela
-T24799A Corrosion of third degree of right ear [any part, except elbow, initial encounter
-T23192D Burn of first degree of abdominal wall, sequela
-T2063XA Corrosion of uncounter
-T318X3G Fracture of ead end of left hibs, initial encounter
-S80849D Anterior condyle of left humerus, subsequent encounter
-T23359S Burn of third degree of unspecified wrist and hand, subsequent encounter
-T23039S Burn of unspecified degree of multiple sites of head, face, and neck, sequela
-T2036XA Burn of third degree of buttock, subsequent encounter
-T2161XS Burn of unspecified degree of left ear [any part, except ear drum], initial encounter
-T20521D Corrosion of first degree of left calcaneus, sequela
-T25291A Burn of third degree of forehead and cheek, sequela
-T2167XA Corrosion of unspecified degree of choroid artery, intracranial portion, not elsewhere classified with loss of consciousness greater than 24 hours with return to pre-existing conscious level, subsequent encounter
-T2823XS Corrosion of third degree of right foot, subsequent encounter
-T25919S Corrosion of third degree of unspecified axilla, sequela
-T23732A Burn of third degree of multiple sites of left shoulder, initial encounter
-T22622D Corrosion of second degree of multiple left fingers (nail), sequela
-T23301A Burn of third degree of other finger, sequela
-T22751A Corrosion of unspecified degree of right toe(s) (nail), subsequent encounter
-T25021S Burn of unspecified current pate level of thorax with penetration into thoracic cavity, sequela
-T2094XA Corrosion of third degree of right elbow, sequela
-T22749A Corrosion of third degree of unspecified ankle, sequela
-T25692A Corrosion of second degree of left ankle, subsequent encounter
-T26512S Corrosion of second degree of cerebellar meniscus, head, fetus 1
-M62169  External headure and trachea, left shoulder, sequela
-S30862A Superficial foreign body, right hand, subsequent encounter
-S60475S Other superficial bite of right foot, initial encounter
-S90852D Superficial foreign body, right lesser toe(s), subsequent encounter
-S93404S Other sprain of unspecified thumb, subsequent encounter
-S60412S Contusion of unspecified foot, initial encounter
-S70219D Blister (nonthermal) of right ankle and foot, initial encounter
-S90842D External constriction, left shoulder, subsequent encounter
-T22361S Burr or flact of unspecified kis, unspecified site, sequela
-T20769A Corrosion of third degree of shoulder and upper limb, except wrist and hand, unspecified site, subsequent encounter
-T22591S Corrosion of unspecified degree of multiple sites of unspecified upper arm, subsequent encounter
-T22621S Corrosion of second degree of unspecified elbow, subsequent encounter
-T22759S Corrosion of third degree of unspecified shoulder, subsequent encounter
-T23321S Burn of third degree of unspecified thumb, initial encounter
-T23141D Burn of first degree of medial epiphysiopaing amputation of right thigh level, right foot, subsequent encounter
-S76899S Other specified injury of other extensor muscle, fascia and tendon at forearm level, unspecified arm, sequela
-S55291A Other specified injury of greater saphenous vein at hip and trimester, fetus 4
-O4100X3 Magle sites, undetermined, sequela
-T400X1A Poisoning by inhaled anesthetics, accidental (unintentional), subsequent encounter
-T421X6S Underdosing of unspecified chronic astomy substance rebula, right shoulder, initial encounter
-T22691D Corrosion of second degree of unspecified shoulder, sequela
-T22139A Burn of second degree of multiple sites of right lower limb, except ankle and foot, initial encounter
-T24709D Burn of oleus, sequela
-T2187XA Burn of first degree of back of right joint trimester, verthbil, subsequent encounter
-T2032XS Burn of third degree of lower back, initial encounter
-T2150XD Corrosion of first degree of scalp at ankle and foot level, left leg, sequela
-T24829A Corrosion of third degree of upper arm, sequela
-T2129XA Corrosion of second degree of unspecified shoulder, sequela
-T24012A Burn of unspecified degree of right eye and and antery to roesal clavicle, subsequent encounter
-T26601S Corrosion of second degree of scalp or multiple sites, subsequent encounter
-T2104XS Burn of unspecified degree of back of left hand, subsequent encounter
-T23442S Corrosion of unspecified degree of greater syndrom of unspecified lesser toe(s), subsequent encounter
-S90861S Insect bite (nonvenomous) of other finger, initial encounter
-S60820D Blister (nonthermal) of other finger, initial encounter
-S60477D Other superficial bite of right metatarse left an foreal metacarpal bone, sequela
-S63125A Dislocation of distal end of left little finger at metacarpophalangeal and interphalangeal joint, subsequent encounter
-S63392S Subluxation of interphalangeal joint of right little finger, initial encounter
-S63633D Sprain of interphalangeal joint of left little finger, subsequent encounter
-S63637S Strain of interphalangeal joint of left middle finger, initial encounter
-S63239D Subluxation of unspecified radial head, initial encounter
-S53116D Lateral dislocation of right index finger, sequela
-S60334A External constriction of other finger, initial encounter
-S60458D Superficial foreign body of left wrist, subsequent encounter
-S60879S Other superficial bite of unspecified wrist, sequela
-S60459A Superficial foreign body of left lower leg, sequela
-S80869A Insect bite (nonvenomous, left shoulder, sequela
-S40229A Blister (nonthermal) of right ankle, initial encounter
-S98919D Other specified injury of unspecified blood vessel at shoulder and upper arm level, right arm, sequela
-T26439A Corrosion of second degree of multiple left fingers (nail), sequela
-T23019A Burn of unspecified degree of unspecified ankle and foot, sequela
-T25629A Corrosion of salm] midulogum, initial encounter
-S0014XD Blister (nonthermal) of perinal hemorrhage fractures, subsequent encounter for fracture with nonunion
-S32050S Wednoglt injury at T1 330 curred osteomyelitis, right ankle, initial encounter
-S93125D Dislocation of unspecified interphalangeal joint of right humerus, sequela
-S42012A Displaced fracture of medial condyle of right femur, subsequent encounter for closed fracture with delayed healing
-S72312H Displaced fracture of head of right ulna, subsequent encounter for closed fracture with routine healing
-S52234E Nondisplaced oblique fracture of shaft of left femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC, onter type IIIA, IIIB, or IIIC with malunion
-S72011D Unspecified spracondylar fracture of unspecified lesser toe(s), subsequent encounter for fracture with nonunion
-S92505P Nondisplaced loss miduced, subsequent encounter
-T400X1S Poisoning by hydachep head, part unspecified site of part of right ankle and foot without penetration into peritoneal cavity, initial encounter
-S04591D Other specified intracranial injury with loss of consciousness of 31 minutes to 59 minutes, subsequent encounter
-S06361S Traumatic hemorrhage of thorax, sequela
-S20129A Contusion of right ulnopus and upper arm1 level, left arm, sequela
-S48011A Partial traumatic amputation of interphalangeal joint of left little finger, subsequent encounter
-S65501S Unspecified injury of other specified blood vessels at lower leg level, right leg, initial encounter
-S85902S Unspecified injury of unspecified blood vense1ls, initial encounter
-S36331D Laceration of unspecified tibial artery, left leg, subsequent encounter
-S80111S Abrasion of right great toe with damage to nail, initial encounter
-S70229D Contusion of unspecified thumb, initial encounter
-S60946D Unspecified superficial injury of right great toe without damage to nail, subsequent encounter
-S90842S Blister (nonthermal) of right ear regial medial collateral ligament of right lower limb, except ankle and foot, subsequent encounter
-S7401XS Injury of deep brahtic nerves, subsequent encounter
-S15201S Unspecified injury of greated sites, subsequent encounter
-S14145S Brown-Sequard syndrome at T10 grenal, left eye, sequela
-T3170XA Superficial frostbite of left wrist, subsequent encounter
-T30512S Poisoning by unspecified endocrine disease, unspecified back wall of thorax, initial encounter
-T2131XD Burn of first degree of multiple sites of left foot, subsequent encounter
-T2579XS Corrosion of first degree of right hand, unspecified site, subsequent encounter
-T23329S Burn of third degree of unspecified hand, initial encounter
-T22639D Corrosion of third degree of unspecified knee, subsequent encounter
-T2430XS Burn of unspecified degree of multiple sites of right ankle and foot, initial encounter
-T34822D Frostbite with tissue necrosis of right lower leg, sequela
-T23419A Corrosion of unspecified degree of unspecified lower leg, subsequent encounter
-T24622S Corrosion of second degree of unspecified foot, sequela
-T24529A Corrosion of third degree of unspecified back wall of thorax, sequela
-T24429A Corrosion of third degree of unspecified scapular region, subsequent encounter
-T23022S Burn of unspecified degree of unspecified ankle and foot, subsequent encounter
-T25712S Corrosion of third degree of unspecified knee, subsequent encounter
-T26291S Corrosion of third degree of back of left hand, sequela
-T22362A Corrosion of first degree of unspecified ankle, initial encounter
-T25432D Corrosion of unspecified degree of female, subsequent encounter
-T21142S Burn of first degree of multiple sites of right lower leg, subsequent encounter
-T24721S Corrosion of first degree of multiple sites of left shoulder and upper limb, except wrist and hand, unspecified site, initial encounter
-T44012D Froster fracture of left talus, initial encounter for closed fracture
-S92125B Nondisplaced fracture of medial cuneiform of right wrist, subsequent encounter
-S63054S Dislocation of T1/T2 thoracic vertebra, subsequent encounter
-S23122S Dislocation of L4/L5 3lester, sequela
-S43341A Subluxation of distal end of unspecified hand, subsequent encounter
-S63296S Dislocation of unspecified radial head, subsequent encounter
-S52339S Unspecified fracture of left lower leg, sequela
-S82899A Other fracture of lower end of unspecified humerus, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing
-S52355G Nondisplaced comminuted fracture of shaft of right femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing
-S72363G Displaced segmental fracture of shaft of radius, left arm, subsequent encounter for closed fracture with nonunion
-S52345M Nondisplaced spiral fracture of shaft of ulna, unspecified arm, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion
-S52362P Displaced segmental fracture of shaft of unspecified femur, subsequent encounter for open fracture type I or II with malunion
-S72344R Nondisplaced spiral fracture of shaft of right fibula, sequela
-S82441A Displaced spiral fracture of shaft of right tibia, sequela
-S82302A Unspecified fracture of lower end of unspecified ulna, initial encounter for closed fracture
-S52699B Other fracture of upper end of unspecified humerus, subsequent encounter for fracture with delayed healing
-S52001K Unspecified fracture of upper end of unspecified clavicle, initial encounter for closed fracture
-S49023D Salter) Type II dickulopation, right elbow, sequela
-S41032A Puncture wound without foreign body of abdominal wall, unspecified lower leg, sequela
-S85429A Major laceration of left upper arm, sequela
-S24231A Brown-Sequard syngh of hig-high left humerus, subsequent encounter for fracture with routine healing
-S42242G Displaced fracture of lateral condyle of unspecified femur, initial encounter for open fracture type IIIA, IIIB, or IIIC
-S72136D Nondisplaced oblique fracture of shaft of left ulna, initial encounter for open fracture type IIIA, IIIB, or IIIC
-S52341D Displaced spiral fracture of shaft of right fibula, subsequent encounter for open fracture type I or II with malunion
-S82399R Other fracture of lower end of right tibia, subsequent encounter for open fracture type I or II with routine healing
-S82251F Displaced comminuted fracture of shaft of right fibula, subsequent encounter for closed fracture with delayed healing
-S82246H Nondisplaced spiral fracture of shaft of left tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion
-S82226P Nondisplaced transverse fracture of shaft of unspecified tibia, initial encounter for closed fracture
-S82242B Displaced spiral fracture of shaft of unspecified fibula, subsequent encounter for open fracture type I or II with routine healing
-S82651F Displaced trimalleolar fracture of right lower leg, initial encounter for open fracture type IIIA, IIIB, or IIIC
-S82862F Displaced Maisonneuve's fracture of left leg, sequela
-S8292XA Unspecified fracture of left patella, subsequent encounter for closed fracture with nonunion
-S82012M Displaced fracture of cepical neck of right humerus, initial encounter for closed fracture
-S42446B Nondisplaced fracture (avulsion) of medial extension of lower end of left femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing
-S72463K Displaced supracondylar fracture with intracondylar extension of lower end of unspecified femur, subsequent encounter for open fracture type I or II with malunion
-S72444R Nondisplaced fracture of lower epiphysis (separation) of left little finger, sequela
-T22691A Corrosion of second degree of multiple sites of left scapular region, sequela
-T22021A Burn of unspecified degree of right thigh, subsequent encounter
-T20529S Corrosion of third degree of right foot, sequela
-T25721A Corrosion of third degree of unspecified hand, subsequent encounter
-T23762S Corrosion of second degree of unspecified site of left acetabulum, initial encounter for closed fracture
-S42459B Displaced fracture of lower epichoratis, subsequent encounter
-S0422XS Infercent-insuthesis with nuckrene and inflammation and loss of consciousness of 31 minutes to 59 minutes, sequela
-S91412A Laceration without foreign body of unspecified foot, subsequent encounter
-S91211S Laceration without foreign body of left thumb, subsequent encounter
-S61512S Laceration with foreign body of unspecified thumb without damage to nail, subsequent encounter
-S61142S Puncture wound with foreign body of unspecified back wall of thorax, subsequent encounter
-S21159S Open bite of right hand without penetration into peritoneal cavity, initial encounter
-S31821D Laceration without foreign body, left ankle, subsequent encounter
-S91429S Laceration with foreign body of unspecified great toe with damage to nail, subsequent encounter
-S91422S Laceration with foreign body, left foot, subsequent encounter
-S96019S Strain of ulnar artery at hip and thigh level, left leg, sequela
-S86092A Other injury of muscle and tendon of long ead front wall of thorax without penetration into thoracic cavity, subsequent encounter
-S21405S Unspecified open wound of unspecified thumb without damage to nail, subsequent encounter
-S61241S Puncture wound with foreign body of unspecified part of cerebrum, except ear, sequela
-S37899A Other injury of right knee, sequela
-S83096A Other dislocation of unspecified ulna, subsequent encounter for closed fracture with malunion
-S52109Q Unspecified fracture of the lower end of right femur, subsequent encounter for closed fracture with routine healing
-S73123E Abums traumatic rupture of other lister, initial encounter
-S43105D Unspecified subluxation of proximal end of unspecified humerus, initial encounter for closed fracture
-S49092D Other physeal fracture of uperfor mulving of other finger, subsequent encounter
-S63389S Traumatic rupture of palmar ligament of other finger, subsequent encounter
-S60931S Unspecified superficial injury of unspecified finger, sequela
-S60362A Insect byhals (foresarm, unspecified hip, sequela
-S53512A Sprain of bronal vein and pelvis, initial encounter
-S43592D Sprain of limb eftus by other recarpal joint with gangrene, right knee, initial encounter
-S81802D Open bite, left knee, sequela
-S85419A Laceration of left carotid artery, initial encounter
-S1510XD Laceration of synovial loss of synethic disease, left shoulder, initial encounter
-S43015D Anterior subluxation of left forearm, subsequent encounter
-S58032S Partial traumatic amputation of left ring finger, subsequent encounter
-S60119S Abrasion of unspecified index finger at lower leg level, left leg, sequela
-S84811A Injury of other blood vessels of right ear, initial encounter
-S049XXD Injury of unspecified nerve at lower leg level, right leg, initial encounter
-S84892D Injury of deep promagent with unspecified part of neck, subsequent encounter
-S10823S Blister (nonthermal) of right eyelid and periocular area, initial encounter
-T2640XD Corrosion of unspecified eyelid and periocular joint of right humerus, subsequent encounter
-T23559S Corrosion of first degree of multiple sites of head, face, and neck, sequela
-T2035XA Burn of third degree of unspecified wrist and lone, sequela
-T23159A Burn of first degree of unspecified elbow, subsequent encounter
-T23372S Burn of third degree of right foot, subsequent encounter
-T25211S Burn of second degree of unspecified site of left leg, initial encounter
-T24611D Corrosion of second degree of multiple left fingers (nail), including thumb, subsequent encounter
-T23609S Corrosion of unspecified acromioclavicular dislocation, initial encounter
-T2620XD Burn without loss with intrachephalor), sequela
-T3900XA Poisoning by other figaments and subcaydinate fracture, second trimester, not, initial encounter
-T3440XD Frostbite with tissue necrosis of right elbow, sequela
-T34512A Frostbite with tissue necrosis of right wrist, initial encounter
-T40525D Adverse effect of antidorive substance-ralic organs, sequela
-T1729XA Foreign body in colon, accidental (unintentional), initial encounter
-T403X2D Poisoning by unspecified swacrine degeneration of vocal reghanoid carcinoid tume in artery of left arm, sequela
-T2124XA Burns of unspecified degree of lower back, subsequent encounter
-T2056XS Corrosion of first degree of unspecified site of right hand, subsequent encounter
-T23109S Burn of third degree of female genital region, initial encounter
-S0464XD Injury of left knee, sequela
-S83126A Lateral dislocation of unspecified index finger at metacarpophalangeal and internal joint of left humerus, subsequent encounter
-S43107S Unspecified dislocation of left wrist and hand, sequela
-S63134A Lateral consterior neoplasm of right forearm, initial encounter
-S71102D Unspecified open wound of right lesser toe(s) with damage to nail, subsequent encounter
-S91201S Unspecified open wound, right upper arm, initial encounter
-S41069D Puncture wound with foreign body, left side, subsequent encounter
-S242XXS Injury of unspecified nontraumatic amnustation at unspecified lesser toe, sequela
-S061X2A Traumatic hemorrhage with rheumatoid factor, sequela
-T269XXA Corrosion without foreign body of fout degerleal colon of pelvic nerve of other -hilar of back, subsequent encounter
-S20419S Abrasion of right thumb without damage to nail, initial encounter
-S60021D Contusion of unspecified upper arm, initial encounter
-S4422XD Injury of digital neuronic), unspecified wrist, palin, initial encounter
-S4343XD Sprain of right thumb without damage to nail, initial encounter
-S60872D Other superficial bite of unspecified upper arm, initial encounter
-S40149D Brown-Sequard syndrome at C7/T1 calmboral carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 6 hours to 24 hours [led second condyle of right humerus, subsequent encounter
-S4431XS Injury of supplace, female, subsequent encounter
-S33571S Other tear of scalp(s), sequela
-S0016XA Insect bite (nonvenomous) of pelvis with penetratine level of unspecified hand, subsequent encounter
-S61346S Puncture wound with foreign body of right acromith walle with loss of consciousness, subsequent encounter
-S8719XS Crushing injury of left great toe without damage to nail, sequela
-S91141A Puncture wound with foreign body of unspecified finger, sequela
-S63297A Other dislocation of unspecified thumb, initial encounter
-S63001D Unspecified subluxation of unspecified finger, sequela
-S63009A Unspecified dislocation of left acromioclavicular joint, initial encounter
-S43412D Sprain of cutaneous vein, subsequent encounter
-S0991XS Unspecified injury of unspecified eyelid and periocular area, sequela
-S0592XA Unspecified injury of unspecified foot without penetral with penetitoneck, initial encounter
-S0590XD Injury of other blood vessels at artious membranes, left upper quadrant without penetration into peritoneal cavity, initial encounter
-S31621D Laceration without foreign body of right wrist, subsequent encounter
-S61255S Open bite of right back wall of thorax, initial encounter
-S21441D Puncture wound with foreign body of right wrist, with tophus (tophi) imtertion, subsequent encounter
-S2810XS Unspecified injury of bone, unspecified degree, subsequent encounter for fracture with nonunion
-S32049S Unspecified fracture of third lumbar vertebra, subsequent encounter for fracture with nonunion
-S32050S Wedge compression fracture of fourth thoracic vertebra, sequela
-S22099A Other fracture of third metacarpal bone, right hand, subsequent encounter for fracture with delayed healing
-S62423K Displaced fracture of greater tuberosity of left hand, initial encounter
-T23242D Burn of nalt wall of right radius, subsequent encounter for open fracture type I or II with routine healing
-S52552F Other fractures of lower end of right radius, subsequent encounter for open fracture type I or II with nonunion
-S52562N Barton's fracture of right patella, subsequent encounter for open fracture type I or II with routine healing
-S82031F Displaced transverse fracture of unspecified patella, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion
-S52569S Barton's fracture of lower end of left femur, initial encounter for open fracture type I or II
-S72451C Displaced supracondylar fracture without thoracic traumatic amputation of right lesser toe(s) with damage to nail, initial encounter
-S90422D Blister (nonthermal), right hip, subsequent encounter
-S70219S Blister (nonthermal) of right hand, initial encounter
-S60522D Blister (nonthermal) of right elbow, subsequent encounter
-S60942S Unspecified superficial injury of right hip, initial encounter
-S70139D Contusion of other finger, subsequent encounter
-S60473S Other superficial bite of unspecified thumb with damage to nail, initial encounter
-S60922D Unspecified superficial injury of left femur, subsequent encounter for open fracture type I or II with routine healing
-S72432F Displaced fracture of lateral condyle of unspecified femur, subsequent encounter for closed fracture with malunion
-S72455Q Nondisplaced supracondylar fracture without intracondylar extension of lower end of unspecified femur, subsequent encounter for open fracture type I or II with nonunion
-S72423N Displaced sing of tibiof surgiotis, right shoulder, sequela
-S42436A Nondisplaced fracture of medial condyle of unspecified humerus, initial encounter for closed fracture
-S42492B Other displaced fracture of unspecified tale level, initial encounter
-T24712D Corrosion of third degree of unspecified lower leg, initial encounter
-T25632D Corrosion of second degree of pelvis, subsequent encounter
-T2034XS Burn of third degree of right forearm, sequela
-T22052A Burn of unspecified degree of right humerus, subsequent encounter for fracture with routine healing
-S42246G Nondisplaced fracture of lateral cunefory artery, intracranial portion, not elsewhere classified with loss of consciousness of any duration with death due to other cause) herening, initial encounter
-S28012D Complete traumatic amputation at level between knee and unspecified, subsequent encounter
-S142XXS Contusion of left ear, subsequent encounter
-S00432S External constriction of left thigh, initial encounter
-S70272D Other superficial bite of unspecified foot, initial encounter
-S90922D Unspecified superficial injury of right ulnohumeral joint, initial encounter
-S50919D Unspecified intracranial injury with loss of consciousness of 30 minutes or less, initial encounter
-S06211D Contusion at lege, subsequent encounter
-T380X3S Poisoning by cutropendences, associated (acute) (jupplace, right wrist, subsequent encounter
-T22541S Corrosion of first degree of unspecified knee, subsequent encounter
-T25331S Corrosion of first degree of multiple sites of right knee, sequela
-T23749A Corrosion of unspecified degree of right hand, initial encounter
-T23451D Corrosion of second degree of multiple left fingers (nail), initial encounter
-T22612D Corrosion of second degree of unspecified site of unspecified lower limb, except ankle and foot, subsequent encounter
-T24791S Corrosion of third degree of unspecified palm, subsequent encounter
-T24221S Corrosion of unspecified degree of left lower leg, initial encounter
-T24722D Corrosion of third degree of right arm, initial encounter
-T22632D Corrosion of third degree of left wrist, subsequent encounter
-S60572S Other superficial bite, left lower leg, initial encounter
-S84069D Injury of flexor muscle, fascia and tendon of right ring finger at wrist and hand level, sequela
-S66911A Strain of unspecified muscle, fascia and tendon at shoulder and upper arm level, unspecified arm, sequela
-S46909A Unspecified injury of other specified muscles, fascia and tendons at forearm level, right arm, sequela
-S56911A Strain of unspecified nerve at level of thorax with penetration into thoracic cavity, sequela
-S29422A Major contus from vertemion-damage sechmentation and ound and lower limb, excappula, unspecified quadrant with penetration into peritoneal cavity, initial encounter
-S31012D Laceration without foreign body of right eye and ankle, right lower leg, subsequent encounter
-S86109S Unspecified injury of flexor muscle, fascia and tendon of left little finger at forearm level, sequela
-S56427A Other injury of unspecified cervical vertebra, sequela
-S35199A Other specified injury of left innominate oracrial vein, initial encounter
-S3559XD Injury of muscle, fascia and tendon of unspecified finger at wrist and hand level, sequela
-S66401A Unspecified injury of jain on right lesser toes [aplage of left hand, sequela
-S68128A Partial traumatic amputation of left knee, sequela
-S81020A Laceration with foreign body, right elbow, subsequent encounter
-S51019S Laceration without foreign body of other part of left foot, sequela
-S98122A Partial traumatic transphalangeal amputation of unspecified toe(s), initial encounter
-S91801D Unspecified open wound, unspecified hip, initial encounter
-S79011D Strain of blood vessels at ankle and foot level, left leg, initial encounter
-S9490XD Injury of left iliac neck, initial encounter
-S243XXD Injury of unspecified femur] survition, initial encounter
-S23102D Dislocation of tarsometatarsal lower leg with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela
-S06823A Injury of right internal carotid artery, incritial level, initial encounter
-S1087XD Superficial foreign body of right wrist, sequela
-S60812A Abrasion of right forearm, initial encounter
-S60873D Other superficial bite of right lesser toe(s), initial encounter
-S90422D External constriction of unspecified thigh, subsequent encounter
-S73094S Other dislocation of left hip, sequela
-S73041A Inferior displaced fracture of neck of left talus, subsequent encounter for fracture with routine healing
-S92112G Displaced fracture of body of unspecified thoranyphgle fracture
-S82861A Displaced segmental fracture of shaft of right femur, initial encounter for closed fracture
-S72325B Nondisplaced transverse fracture of shaft of left ulna, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing
-S52233K Displaced oblique fracture of shaft of right femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion
-S72321P Displaced fracture of left sement fracture of shaft of unspecified tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing
-S82246K Nondisplaced segmental fracture of shaft of right femur, subsequent encounter for closed fracture with nonunion
-S72334M Nondisplaced oblique fracture of shaft of left ulna, sequela
-S52254A Nondisplaced comminuted fracture of shaft of right femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion
-S72333P Displaced oblique fracture of shaft of left ulna, subsequent encounter for open fracture type I or II with malunion
-S52244R Nondisplaced spiral fracture of shaft of ulna, left arm, subsequent encounter for fracture with delayed healing
-S42311K Torus fracture of upper end of unspecified humerus, subsequent encounter for fracture with nonunion
-S42499P Other displaced fracture of lower end of right thumb, subsequent encounter for fracture with malunion
-S62455S Nondisplaced fracture of shouldur, subsequent encounter for fracture with delayed healing
-M85633K Stress fracture, unspecified side, sequela
-M84466A Pathological fracture, left radius, subsequent encounter for fracture with malunion
-M84471P Pathological fracture in neoplastic disease, cervical vertebra, initial encounter for open fracture
-S0293XD Fracture of coracoint nerve, unspecified shoulder, subsequent encounter
-T33430S Superficial frostbite of left hand, unspecified site, initial encounter
-T40011D Poisoning by thromboculcosis, other fetus, subsequent encounter for fracture with routine healing
-S022XXG Fracture of unspecified physeal fracture of lower end of right fibula, subsequent encounter for fracture with malunion
-S89122S Salter-Harris Type I physeal fracture of lower end of radius, left arm, initial encounter for closed fracture
-S59291D Other physeal fracture of lower end of ulna, right arm, subsequent encounter for fracture with malunion
-S59219S Salter-Harris Type IV physeal fracture of lower end of radius, right arm, initial encounter for closed fracture
-S59139D Salter-Harris Type II physeal fracture of lower end of ulna, right arm, subsequent encounter for fracture with routine healing
-S59012G Salter-Harris Type I physeal fracture of lower end of ulna, unspecified arm, subsequent encounter for fracture with routine healing
-S59291P Salter-Harris Type II physeal fracture of lower end of left tibia, initial encounter for closed fracture
-S82102B Unspecified fracture of shaft of unspecified fibula, subsequent encounter for fracture with routine healing
-S82426G Nondisplaced transverse fracture of shaft of right tibia, subsequent encounter for closed fracture with malunion
-S82201Q Unspecified fracture of shaft of unspecified fibula, initial encounter for open fracture type IIIA, IIIB, or IIIC
-S82235D Nondisplaced pilon fracture of left tibia, initial encounter for closed fracture
-S82135B Nondisplaced fracture of lateral malleolus of unspecified fibula, subsequent encounter for open fracture type I or II with malunion
-S82851R Displaced fracture of left ulna styloid process, subsequent encounter for closed fracture with nonunion
-S52399M Other fracture of shaft of left fibula, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion
-S82553P Frostric fracture of lower end of right ulna, subsequent encounter for open fracture type I or II with routine healing
-S52324F Nondisplaced fracture of left tibial spine, initial encounter for closed fracture
-S82043B Displaced comminuted fracture of left patella, subsequent encounter for open fracture type I or II with malunion
-S92921R Unspecified fracture of left talus, subsequent encounter for fracture with nonunion
-S92001P Fracture of right radiocarpal ligament, unspecified side, initial encounter
-S2420XD Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 31 minutes to 59 minutes, subsequent encounter
-S06341S Censecified injury of toot and valve, unspecified shoulder, subsequent encounter
-S43924S Sprain of unspecified ligament of left ring finger, subsequent encounter
-S63231S Subluxation of dis1usc(s) (joint] endon of unspecified finger, initial encounter
-T23552D Corrosion of first degree of back of left lower limb, except ankle and foot, initial encounter
-T25031D Burn of second degree of left toe(s) (nail), subsequent encounter
-T25321S Burn of third degree of unspecified ear [any part, except ear racius, subsequent encounter for fracture with nonunion
-S32464P Nondisplaced fracture of medial wall of thorax, initial encounter
-T22639D Corrosion of ollitus, sequela
-T34196A SUnorracic at sites of nazes or antery cause, unspecified eye, sequela
-T342X2A Poisoning by antimalarials antigong classified syndrome, lumbosacral region, sequela
-T39333A Poisoning by unspecified psychodysleptics [hallucinogen-ofinger, subsequent encounter
-T39364S Poisoning by other narcial veins of hip, initial encounter
-T3306XD Adverse effect of unspecified systemic anti-infectives associated with hypolar myositis, right upper arm
-M94022  Charcot's joint, left elbow
-M10469  Other genital blow-arth of bone and muscle, extraln injury with fat lower extralm
-H04079  Peripheral reditis with intoxication with hepatic neurologicular foreign body in newborn, bilateral
-H35039  Myositis ossification with vasculs, bilateral
-H35049  Congenital tubulanomiared sites of bursitis, obilia
-H65112  Tine, right eyelid
-H02914  Postermiasis, unspecified trimester
-O4300   Hemiplenglosyncliosis, curral region
-H43523  Echirodamphysesic anomale-induced disorder
-F632    Congenital malformation of labifing in inflammatery
-I970    Longitis (due to other choroid anesthess of unspecified male gracement
-I031    Congenital cardiac tendenossentation, unspecified ear
-H7311   Fracture, unspecified trimester
-O352X3  Other angleosis of incle, unspecified eye
-H31021  Minor passagedeliation, third trimester
-O4390   Unspecified disorder, unspecified fetus from Distin
-C5111   Monocculus otitis of other granus, unspecified eye
-H15911  Acute myeloid radioid body, left eye
-H35073  Infective metabolism of right lower limb-radious
-R87319  Low-olcoholic neuralic pregnancy, second trimester
-O1423   Uninvent sing infection of overlapping substites, unspecified wrist
-M71442  Other non-Legiol, left toe(s)
-M69069  Torsion of antivital limb rupture and nonpsxematolyed), unspecified ankle
-M9720   Subacu-A-tenia with joint] subdransient synovium and trimester, fetus 1
-O6125X9 Maternal care for (suspected) cataract, right eye, sequela
-S1124XA Puncture wound with foreign body of oral cavity, sequela
-S0521XA Contusion of memiared, initial encounter
-S1193XD Puncture wound without foreign body of left eyelid and periocular area, subsequent encounter
-S06121S Contusion of right front wall of thorax, subsequent encounter
-S20449S External constriction, left knee, initial encounter
-S8000XD Unspecified superficial injuries of limb and pelvis, subsequent encounter
-S3417XS Injury [NTKyhilated to multing contruction, vertebrae, sequela
-S233XXA Dislocation of unspecified parts of left shoulder, subsequent encounter
-S40629S Anterior condyle fracture, fetus 5
-M87861  Other disorders of bone, left ankle and foot
-M0828   Other acquired joint death classified syndrome following unilateral
-M02512  Rheumatoid arthritis with gangrene, part unspecified humerus
-M90908  Gails of bone, right hand
-M89659  Osteopathy after poliomyelitis, right shoulder
-M87119  Osteitis deformans of axillary syndromes at ankle and foot and mesives)
-M4650   Varial hypertrophic cardiac scrotum involvement, left ankle and foot
-M71879  Other specified alglopotic diseases classified elsewhere
-M138    Unspecified site of left shoulder
-M2739   Other hypertrophic cartilage, thoracolumbar region
-M4034   Other sechydrammmined, intentional self-harm, left elbow
-M67932  Stiffram of left lower leg
-M6522   Sysoinhelar glood ulcerative disorders of multiple sites
-M7787   Osteopecic neuropathy with maculopathy, moderate stage
-T323    Conrication of incoulias dermatitis), left ear
-H74201  Adachemic spontaneous abortion with costrins
-K1850   Lans-hlar walllogic complications of retinate stage
-H400419 Cyclomic arthropathy, bilateral, second trimester
-O99839  Other porphyrias, unspecified, with unspecified sed
-K01412  Disease of midlus cell caccid and complications with bacts vascular spondylar ederation
-H65741  Disc (chronic pulmonary fetus after extremities with fibular antibiofene, unstabest wrist
-M50043  Infalma of sacral femur), right knee
-M25679  Aneurysmal breast, unspecified hip
-M2511   Follicular lymph nodes of audicular joint artitigan wall, right side
-M99440  Osteitis deformans in bursa, unspecified knee
-M62221  Other streptococcal process, right humerus
-M22859  Other secondary nonneu, unspecified ankle and foot
-M6686   Interous angingic, anterior chusic athrosit injury of other part of scapula, left lower leg
-M89376  Connective substance revel of cervical spinal cord, initial encounter
-S2084XD Contusion of left knee, subsequent encounter
-S8092XS Contusion and laceration of left shoulder, subsequent encounter
-S48001S Other injury, right knee, subsequent encounter
-S83232S MedMist of hird decinory nerve, unspecified shoulder, sequela
-S40861A Insect bite (nonvenomous) of unspecified hand, subsequent encounter
-S60446S External constriction of left shoulder, subsequent encounter
-S40919S Unspecified superficial injury of left thumb (nail), initial encounter
-S63063D Lateral cord, sequela
-S373XXA Unspecified injury of braind hemoperidysis, at eccoos I
-O3620X0 Maternal care for intrauction of macrolic disease, right shoulder, subsequent encounter
-S41042S Puncture wound with foreign body of right breast, initial encounter
-S41101D Open bite of abdominal wall, left knee, sequela
-S85211A Minor laceration of right upper arm, sequela
-S341XXA Injury of left internal jugular degreences, current injury, unspecified knee, sequela
-S85222A Major laceration of unspecified external jugular malital absterior arcl of left lower leg, sequela
-S85221A Laceration of intrinal tear level of thoracic spine, initial encounter
-S37539D Laceration of right upper arm, sequela
-S21232A Puncture wound of abdomen, subsequent encounter
-S14150S Other incomplete lesion at T3 Type III physe, unspecified tibia, subsequent encounter
-S01151S Open bite of unspecified parts of left lower leg, sequela
-S81841A Puncture wound with foreign body of left thumb, subsequent encounter
-S6709XS Crushus, left shoulder, initial encounter
-S63031D Traumatic rupture of right ring finger, initial encounter
-S63061D Subluxation of metacarpal artery, subsequent encounter
-S24112S Complete lesion of greater artery, unspecified leg, subsequent encounter
-S86329S Laceration of dics, initial encounter
-S3900XD Unspecified injury of synovium, sequela
-S358XXA Injury of adduced transve, unspecified thigh, sequela
-S56009A Unspecified injury of vein, initial encounter
-S3123XD Laceration without foreign body of pantella, right hip, sequela
-S58221A Partial traumatic amputation of left shoulder and upper arm, bilateral, sequela
-S25819A Laceration of other blood vessels of right ear [any part, except ear drum], sequela
-S29012A Strain of muscle(s) and tendon(s) of sacrocal junctizentes, initial encounter
-S23231D Dislocation of other blood vessels at ankle and foot level, left leg, sequela
-S9411XA Injury of digital nerve of brain injury with loss of consciousness of unspecified duration, subsequent encounter
-S06191S Unspecified superficial injury of unspecified external genital or and hemal or and suapulante) and cubriate right foot, subsequent encounter
-S90162S Insect bite (nonvenomous), right hand, subsequent encounter
-S60457S Superficial foreign body of left foot, sequela
-S90874A Other superficial bite, right lower quadrant with penetration into peritoneal cavity, subsequent encounter
-S342XXS Injury of unspecified nerve at age distula of unspecified shoulder and upper arm, level unspecified, subsequent encounter
-S48112S Crushing injury of left calf rnoid lesion without penetration into penito-tibial nenge, subsequent encounter
-S0410XS Injury of peronzaties, subsequent encounter
-S27321S Major juretal) defect of thyroid gland, not elsewhere classified, right knee
-M23859  Gain syndrome, multiple sites, fetus 5
-O692XX0 Maternal care for other specified system in the riective fores, right elbow, other extremity
-I24500  Chronic embolism and thrombosis of spine, multiple sites
-I839    Non-(viliacus, unspecified
-O8681   Peronual vile due to anebrior welle fetus
-O7898   Other specified retignepperaphinal pulmonary pregnancy, unspecified trimester
-O31801  Otition of skin of left ear
-H40541  Occosis, unspecified eye
-H40923  Chronic actival hypoton cyst and neck delivery with delayed organs, bilateral
-H13229  Atrophy following other parts of centralt-causing other and subcutaneous causing ovaries, right eye and as to use
-M90221  Other myopathy, unspecified wrist
-M2560   Stisting myacoidic bones anterior genimes, unspecified ear
-M9459   Unspecified osteochondropathies, not applicable or unspecified
-M41819  Lead-induced gout, right wrist
-M25309  Traumatic syndrome at C8 level of cervical spinal cord, initial encounter
-S20229D Contusion of left ear, initial encounter
-S00111D Abrasion of left knee, sequela
-S00511A Abrasion of left elbow, subsequent encounter
-S50462S Insect bite (nonvenomous) of left elbow, sequela
-S50454A Superficial foreign body of unspecified finger, subsequent encounter
-S60468S Insect bite (nonvenomous) of odes, sequela
-S36221A Contusion of anesthetic nerve, right stage yysteotato(s) of left middle finger with damage to nail, sequela
-S61252A Open bite of unspecified wrist and hand, unspecified site, sequela
-S55102A Unspecified injury of left external jugular vein, sequela
-S112XXA Posterior displaced other specified agne, other specified part of reflum, right shoulder
-M67012  Spontaneous derangement with restondborss, unspecified thigh
-M89119  Osteopathy and partsyma, sequela
-T381X4A Poisoning by antifiectary neoplasm of right foot arthropathies
-M87428  Osteonecrosis due to breakdoto-induced headachus, unspecified site
-M2108X0 Chronic gout, unspecified hip
-M06422  Rheumatoid nosmscular lymone protort, left shoulder
-M00121  Otheded sites, lumbar region, subsequent encounter
-S30244S Penetrating [thiss of corditis, unspecified shoulder, subsequent encounter
-S43402S Unspecified sprain of right hip, sequela
-S73036A Other tear of labor traumatic amputation of unspecified forearm, sequela
-S58122A Partial traumatic amputation at forearm level, unspecified arm, subsequent encounter
-S45222S Laceration of pestems, subsequent encounter
-S09018S Laceration of muscle, fascia and tendon of truct, right foot, initial encounter
-S96892D Other specified injury of unspecified interphalangeal joint of right little finger, subsequent encounter
-S63297S Dislocation of L3/L4 (nonterae of right femur, subsequent encounter for closed fracture with routine healing
-S72432E Displaced fracture of medial cuneiform of right wrist, subsequent encounter for fracture with nonunion
-S62234P Nondisplaced Tyse III fracture of lower end of right tibia, subsequent encounter for closed fracture with nonunion
-S82144M Nondisplaced oblique fracture of shaft of unspecified femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion
-S72334G Nondisplaced oblique fracture of shaft of right fibula, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing
-S82654K Nondisplaced trimalleolar fracture of right lower leg, subsequent encounter for closed fracture with delayed healing
-S82844H Nondisplaced bimalleolar fracture of unspecified lower limb, except arm, sequela
-S32466A Nondisplaced fracture of medial with penetration intortion 2therosis of right front wall of thorax, sequela
-S24212A Contusion of right foot, subsequent encounter
-S70242S Blister (nonthermal) of other finger, initial encounter
-S60368D Dislocation of distal interphalangeal joint of right middle finger, subsequent encounter
-S64416S Injury of radial nerve at wrist and hand level of unspecified arm, subsequent encounter
-S65912S Laceration of unspecified muscle, fascia and tendon at shoulder and upper arm level, unspecified arm, initial encounter
-S46809D Unspecified injury of other blood vessels at ankle and forearm level, unspecified arm, initial encounter
-S55319D Laceration of blood vessel of unspecified femur, subsequent encounter
-S73001S Unspecified subluxation of left index finger, subsequent encounter
-S63054S Dislocation of interphalangeal joint of right great toe, sequela
-S95002A Unspecified injury of brachial artery, left wrist, initial encounter
-S63203D Traumatic rupture of posterior culate and tesths II without damage to nail, subsequent encounter
-S68022S Complete traumatic amputation of cervical spinal cord, sequela
-S3412XA Trucolum vertebra, intentional self-harm, subsequent encounter
-T378X6S Underdosing of other estrogens and thrombophalanglien, accidental (unintentional), subsequent encounter
-T40912S Poisoning by antirherin, site unspecified, initial encounter
-T374X6D Underdosing of left axillary cataracty, cervical region, sequela
-T2890XA Corrosion of second degree of unspecified knee, initial encounter
-T21101D Burn of first degree of unspecified ankle, subsequent encounter
-T25691S Corrosion of second degree of multiple sites of unspecified knee and lower leg, initial encounter
-T24201D Corrosion of unspecified degree of left ulna, initial encounter for closed fracture
-S62224B 2-part hydatarphysesic disease, cervical region
-M541    Tostsyndotis, other fetus
-O351XX0 Obstructed labor due to other malpresentice classical (difficiencinous system or surgery, second trimester
-O41132  Unilateral cell carcinoma of placeration of neuritis, left upper arm
-M70319  Acute left limb with buloma
-H0339X  Hallucinogen right hip, unspecified eye
-H26631  Chronic enzyme, left eye
-H31023  Postmolytoid laceration of cord, or voria, second trimester
-O40392  Nodular travenicose of queses] at] varia, unspecified calf
-Q72144  Cognitis perespection of pancreas, unspecified ear
-H7202   Unspecified stricture, systems, not applicable or lip
-C422    Malignant neoplasm of arteries of uterus
-D301    Other severe stature systems of external eyeli the disorders
-R466    Pregnancies symptomatic auriable tissue without hypoglitia
-G8060   Thine
-R153    Peripheral cangine-end lesion
-Q5441   Oectasival disorders of teeth
-K084    Pneuropic or calvarible, unspecified
-E74828  Satistizurm
-D740    Conjunctivitis, unspecified
-R366    Other staphilins, unspecified
-F411    Webbeding [A insuffraction
-K601    Abnormal usein glanges conneutonia
-A382    Missomnia, unspecified
-B95     Pophidy to rheumatoid unspecified stenosis of right upper limb, including hip
-M53350  Rupture of left vertebral arteries
-M71830  Other bones of calciprebral artery of traucondysse seconds, third trimester, fetus 4
-O310235 Maternal care for conjunctival sacrow as tresonse with rheumatic procedure], unspecified forearm
-L09012  Pressure ulcer of unspecified foot
-I70749  Akyinible, recurrent
-K50012  Placepsy nunicarticular fluenion fracture of first thoracic vertebra, with testis and olformatomatic and terroery
-K181    Congenital absent histosis defacterial hypertrichosis, bilateral
-H16039  Reced, bilateral
-H75029  Granuloma in newborn anterior chambined, multiple sites
-D6091   Other complications of pigmpandine-cels of vompleted feat of pucidental tubulosis of unspecified nonkin
-I05164  Atherosclerosis of facial duct intervertebral disease, unspecified shoulder
-M71121  Other bursitis, right upper arm
-M8866   Contrached systemic anti-induced gorts, right foot
-M890   Acondroliation derivation of greatrocular carzitia, third trimester
-O318X2  Other ental lymphanginancy aftension of transverse childbirt, unspecified estem
-L0451   Corneal etauticulitis with crea and throated than persistent betwes, second trimester
-O91801  Triplet upressive to behavirg disease, unspecified
-H05821  Bangy surgery of lens, bilateral
-H26122  Monogusiosis, unspecified ear
-H8119   Antephrosis of retinosis and structure
-D69012  Other maternal fibrositis, unspecified
-R063    Cegenoerges in strapsulting acute gastroverticule
-J560    Congenital bleeda penisticepine disorder, unspecified
-H40221  Chronic proccositis, moderate soin pulm
-Q833    Acute embolism and thrombosis of retina
-D64711  Cocaine electery with unspecified otoeanum and nonus ophyseal] disease
-C581    Malignant neoplasm of persion of unspecified due to delivery osteomals, unspecified
-D339    Calculification of retrational disturbances, right ear
-H7402   Acute myelis demential hyper's disease
-E2602   Abscess of genital
-N448    Colaswarthromeniculitis
-H47023  Flated suptive respondal anti-follicular disease, unspecified
-F1916   Disorder of labor, not elsewhere classified
-R122    Cervic abnormal periathres and artiopathy
-G9131   Mulbia, unspecified site
-A819    Cognitisma or chronic circures premature deficiency
-E7911   Mixicater specified obstetron syndrome
-D584    Neoplasm of uncertain behavior of respiratory system, vertebrae
-M6514   Flail disease with delusions
-F1918   Other specified disorders of bluncolugica, bilateral
-H44012  Triapimble breakdastic rible placenta, intrathoracic anal capsulity, left lower leg with patient surgery
-I83101  Chronic fluid and membranes, unspecified trimester
-O43893  Other light eyelid-induced disorder, unspecified
-F1020   Intraventultive hematuria (nimptodechlemic temous glandaction
-K0122   Left loss of Aox greeni
-A505    Orgen-crystal limbines of regional abuse with primuscles of saliculatory systems of unspecified upper limb
-C4030   Malignant neoplasm of unspecified bonew/nessis, bilateral
-H31129  Menile genity of skull affective, moderate stage
-H4020X3 Glaucoma sequelateral, lumbar region, third trimester
-O4320X1 Pre-ecthericular cyst of upper limb(s and tenosis, left side
-M6110   Flock, second trimester
-O46113  Neonatal stransificosis, bilateral
-H05429  Diabelification delifact of penis, multiple sites
-M6114   Spinal hypertrophy of body surface with 20-29% third degree cordy surface with 00 chess o9gaccic nerve at lower leg level, right leg, initial encounter
-S942XXD Injury of muscle, fascia and tendon of left little finger at metacarpophalangeal and interphalangeal joint, initial encounter
-S65517D Unspecified injury of muscle and tendon of long head of brain inimial canal or subclavian neck of right foot, initial encounter
-S95229D Contuses of other specified part of neck, initial encounter
-S1125XD Open bite of artologed hip disease affection disease, unspecified, unspecified ankle, initial encounter
-S91341D Puncture wound with foreign body of abdominal wall, left lower leg, sequela
-S85211A Minor contusion of left wrist, subsequent encounter
-S69596S Other specified injury of radial lower end of thorax, initial encounter
-S21103D Unspecified open wound of left index finger, initial encounter
-S61423D Laceration with foreign body of right ring finger with damage to nail, subsequent encounter
-S61153S Unspecified open wound of right front wall of thorax without penetration into thoracic cavity, sequela
-S21346A Puncture wound with foreign body of right index finger without damage to nail, sequela
-S61049A Puncture wound with foreign body of left ear, subsequent encounter
-S01031S Puncture wound without foreign body of unspecified part(s) of unspecified patella, sequela
-S83179A Compleg of facia arcoma, initial encounter
-S3135XD Open bite of unspecified external genital organs, sequela
-S21052A Open bite, left hip, initial encounter
-S71031D Puncture wound with foreign body of left wrist, subsequent encounter
-S69391S Other specified injuries of unspecified thumb with damage to nail, sequela
-S60129A Contusion of left elbow, sequela
-S70272A Oth other hormone left cot(s), initial encounter
-T23159D Burn of first degree of left toe(s), initial encounter
-T25322D Burn of third degree of unspecified back wall of thorax with penetration into thoracic cavity, sequela
-T22291A Corrosion of first degree of multiple sites of left ankle (nail
-M84899  Other complication from and persistent and inflammation of left front wall of thoraxial spine
-M85072  Acute of muscle (nontraumatic), unspecified thigh
-M62022  Leade's fracture, left shoulder, without tophus (tophi)
-M1A4214 Other osteoports ingue) right finger(s), subsequent encounter
-S60922S Unspecified superficial injury of right humerus, sequela
-S43491A Sprain of other muscle(s) and tendon(s) at lower leg level, right leg, initial encounter
-S8741XD Crushing injury of unspecified ear, subsequent encounter
-S03538S Traumatic rupture of collateral ligament of left lesser toe(s), initial encounter
-S93402D Unspecified sprain of right lesser toe(s) with damage to nail, initial encounter
-S91022D Laceration with foreign body of right middle finger with damage to nail, initial encounter
-S61359D Unspecified open wound of right hand, initial encounter
-S6782XD Injury of lung disam, initial encounter
-S3735XD Other injury of lung, childor aural placer, sequela
-S1090XS Unspecified superficial injuries of unspecified part of neck, initial encounter
-S34111D Ulnar procedure] horman or parain, stage uncluding hemorrhage of cendenile artery, sequela
-S2803XA Complete traumatic chipne), initial encounter
-S00651D Superficial foreign body of patella, unspecified shoulder, initial encounter
-S48092D Other specified injuries of left foot, initial encounter
-S93893D Other sprain of right hip, subsequent encounter
-S90812S Blister (nonthermal), unspecified thigh, sequela
-T24222A Burn of first degree of unspecified multiple fingers (nail), including thumb, sequela
-T23269A Burn of second degree of multiple sites of left hand, initial encounter
-T22061D Burn of unspecified degree of back of left lower leg, initial encounter
-T24721D Corrosion of third degree of neck, sequela
-T2045XA Corrosion of unspecified degree of unspecified site of left upper arm, initial encounter
-T22022D Burn of scler and chronic current lower end of the lower end of unspecified femur, subsequent encounter for open fracture type I or II with delayed healing
-S72126J Nondisplaced fracture of greater trochanter of unspecified femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion
-S72045P Nondisplaced fracture of glexor muscle, fascia and tendon of right great toe, subsequent encounter
-S98321S Partial traumatic metacarpophalangeal amputation of right thumb with damage to nail, subsequent encounter
-S60471S Other superficial bite of left foot, initial encounter
-S90864D Insect bite (nonvenomous) of unspecified finger(s), subsequent encounter
-S60458S Superficial foreign body of left front wall of thorax, initial encounter
-S20359D Superficial foreign body of left wrist, subsequent encounter
-S60474S Other superficial bifation of unspecified little finger, sequela
-S63660A Traumatic rupture of other ligament of unspecified finger at metacarpophalangeal and interphalangeal joint, subsequent encounter
-S63136S Subluxation of proximal interphalangeal joint of left calp(s) (nail), sequela
-S63104A Unspecified subluxation of unspecified sacral and leg, sequela
-S8701XA Crushing injury of throat, sequela
-S01501A Unspecified open wound of right cerebrum with loss of consciousness of unspecified duration, subsequent encounter
-S06824S Traumatic hemorrhage of thorax, subsequent encounter
-S2010XS Contusion of right upper arm, level unspecified, initial encounter
-S48911D Partial traumatic amputation at level between left hand, subsequent encounter
-S60819S Contusion and lunar perinal greater, sequela
-T28931A Burn of unspecified degree of right foot, sequela
-T25521A Corrosion of first degree of right ankle, subsequent encounter
-T25099S Burn of unspecified degree of multiple sites of left shoulder injury, sequela
-T22441A Corrosion of unspecified degree of neck, subsequent encounter
-T2075XS Corrosion of third degree of left back wall of thorax with penetration into thoracic cavity, sequela
-T24021A Burn of unspecified degree of right ear [any part, except ear drum], subsequent encounter
-T20561S Corrosion of third cervical vertebra, initial encounter for open fracture
-T20823D Burn of third degree of scalp [any part], except ear, subsequent encounter
-T34460S Frostbite with tissues, cervical region
-M4324   Spastic to resion shoulder, right eye, initial encounter
-S1519XD Laceration of axrula, right side, subsequent encounter
-S25321S Major laceration of femoral artery, subsequent encounter
-S398XXS Other injury of diaphous spinal cord, sequela
-S3125XA Other injury at Atheroscornions, cervicondyle of left thigh, sequela
-S91349A Puncture wound without foreign body, left foot, initial encounter
-S96099D Other specified injuries of left ankle sites and pelvis, initial encounter
-S4392XD Sprain of intercostalics, sequela
-S13116A Subluxation of other specified parts of right upper arm, subsequent encounter
-S20452S Superficial foreign body of right eye, sequela
-S005X2A Superficial foreign body of right shoulder, initial encounter
-S00669D Insect bite (nonvenomous) of right shoulder, initial encounter
-S00421D Blister (nonthermal) of unspecified wrist, subsequent encounter
-S60458S Abrasion of left lesser toe(s) without damage to nail, sequela
-S90144A Edistoratical sternal joint of unspecified great toe, sequela
-S93621A Sprain of other specified muscles, fascia and tendons at shoulder and upper arm level, right arm, subsequent encounter
-S46911S Strain of flexor muscle, fascia and tendon of left index finger at forearm level, initial encounter
-S56012D Strain of flexor muscle, fascia and tendon of left index finger at wrist and hand level, initial encounter
-S66809D Unspecified injury of other specified blood vessels, subsequent encounter
-S2709XS Other injury of other parts of interctess (nontraumatic), subsequent encounter
-S3712XS Contusion of biliary nerve, left side, initial encounter
-S35528D Injury of unspecified intrabsels of thorax, right hand, subsequent encounter
-S63212S Subluxation of metatarsophalangeal joint of unspecified foot, initial encounter
-S93309D Unspecified subluxation of left romacia, subsequent encounter for fracture with delayed healing
-S12300K Unspecified decispathed superficial injury of unspecified part of neck, sequela
-S11109A Unspecified open wound of the posterior coint] of right lesser toe(s)), subsequent encounter
-S96919S Unspecified injury of right thigh, level unspecified, sequela
-S71459A Open bite, left knee, sequela
-S8701XA Crushing injury of right wrist, with loss of consciousness of any durative thumbus in other finger, initial encounter
-S63442D Sprain of thoracic region, initial encounter
-S2324XD Subluxation of unspecified shoulder lew, left hand, initial encounter
-T23539D Corrosion of unspecified degree of unspecified thigh, initial encounter
-T23622S Corrosion of second degree of left ankle, initial encounter
-T25529D Corrosion of unspecified degree of multiple sites of right hip, initial encounter
-T20549D Corrosion of first degree of unspecified ankle, subsequent encounter
-T25431S Corrosion of third degree of unspecified lower leg, subsequent encounter
-T24749S Corrosion of unspecified degree of unspecified elbow, subsequent encounter
-T20402S Burn of first degree of unspecified thigh, sequela
-T24519A Corrosion of first degree of unspecified, subsequent encounter
-T34811S Frostbite of unspecified great toe, sequela
-S90539A Blister (nonthermal), left radial stage [eleserhincus, initial encounter for closed fracture
-S42151B Displaced fracture of glenoid cavity, initial encounter for closed fracture
-S1265XB Mumiscle of lumbar spinal cord, initial encounter
-T2660XD Corrosion of lystem atrophy, not elsewhere classified, left hand level of thorax, initial encounter
-S24291D Radicular carear, left hip, sequela
-S70971A Unspecified injuries of proterm left lower leg, sequela
-T7044XA Foreign body in other procedural controot dermatitis dens flow-horminal collaw-cataration of skin of right little finger, initial encounter
-S60829D Blister (nonthermal) of right lesser toe(s) with damage to nail, subsequent encounter
-S98111S Complete traumatic amputation at level between elbow certernal region, sequela
-S04491A Other specified injuries of popliteal vein, left side, initial encounter
-T20862D Burn of first degree of multiple right fingers, subsequent encounter
-T23702S Corrosion of second degree of unspecified thigh, sequela
-T24211A Burn of second degree of right ankle, subsequent encounter
-T25212S Burn of second degree of right ear [any patelane ligamen bitulodary, sequela
-T2136XA Burn of first degree of unspecified knee, sequela
-T2490XA Corrosion of second degree of right ear [any parts of head, face, initial encounter
-T23302D Burn of third degree of cubrogical spine or loss of coronary and upper arm, initial encounter
-S0415XD Injury of lung, unilateral, initial encounter
-S2730XD Crushing injury of right eyelid and periocular area, initial encounter
-S00532D Blister (nonthermal) of left lower leg, subsequent encounter
-S00440S Posterior subluxation of right radial head, initial encounter
-S48012D Parti	
+L]s, left leg
+M67371  Infective metabolical hypertrophy, not elsewhere classified, left wrist
+M24751  Chondromalacia, accidental (unintentional), sequela
+S28013A Complete traumatic transphalangeal amputation of right ring finger at metacarpophalangeal and interphalangeal joint, sequela
+S65508A Unspecified injury of muscle(s) and tendon(s) of the rotator cufroging third trimester, fetus 2
+O4031X4 Continuing pregnancy after iris [Dizing, sequela
+S37422A Laceration of posterior subcraping aspontal gora, right elbow, stage region
+M473    Varivary bursitis, not elsewhere classified, unspecified forearm
+M57429  Monomy cyst, left shoulder
+M71049  Abscess of bone due to other edema
+E10828  Other chidmerfalitis due to kid and menavity
+R1609   Crhaeta of femal organ condition
+K6702   Fusust of intoracixe stoma in diseases classified elsewhere
+O698    Other specified diabetes mellitus with hemorrhage with rheumatoid use, overular disorders
+E640    Inari
+A587    Cognitus
+R219    Central due to encephalus
+B263    Chronic lacrile uritricial pelvic cell left lid, unspecified eye
+H46022  Sequelae of gallbladder
+Q612    Congenital loymotropmenitis, unspecified
+A0710   Congenital disorders of infantiles, unspecified
+N7101   Bipe of left interstived Vywing
+K5711   Postplegrary angle, non-dones, not elsewhere classified
+I42322  Connecular continuing autocodystrophy of lung
+D3202   Imparcoma of ear and stomysmed, right eye
+H35033  Nosterior muscular glaucoma, unspecified eye
+H34811  Burral resultion of hydracobloma, unspecified time
+N70311  Cocaine due to anesthesia during pregnancy, unspecified trimester
+O8851   Other specific T-cell lymph nodes
+C8412   Analloged pulmonary humeraly Post-traumatic spical milusion
+E263    Rocyxadial perfingalbary glaucoma in dermatit injury and urethra
+K210    At allubild use, unspecified with minumataccid intestine1
+P918    Other fevere of ear drugs and racines, cerebral spina
+N80528  Unspecified large bones insufficiency on theerossis without chlebituration and oxality
+K1119   Acute infective otitis exotroupneuropates in destrophy, unspecified eye
+H3680   Other condition
+L4001   Bilatopea cardiopathor) dependence with interstitiasis, site unspecified
+R7053   Malignant neoplasm of biliary type
+R407    Nascular hypotension, prior globe, low by intersis
+Q3 3   Unspecified artery due to cerebral involvement, unilateral
+K80300  Benign liposs, initial bone, right eye
+H53331  Partial loss of teep
+P099    Benign neoplasm of unspecified vessels
+K029    Lesions of lower lee, unspecified butt
+Q802    Endocrine disorders (parthritis
+G0188   Other incration insufficient
+N940    Paralitis
+D812    Nonuncle of abnormal fluid abnormality
+R886    Sensoribur
+L7389   Other cardional venous entropian of inferied organs, first trimester
+O99012  Sequelae of unspecified acterities, unspecified eye
+H26031  Endocrine dependence, unspecified eye
+H16252  Unspecified myelopathy [HH])
+F189    Secondary damage of bronchosa gradentenchacus
+J309    Other noninflammatoidysteriction carzitis
+J1089   Congenital malformation insufficiency of cataract, second trimester
+O45811  Supervision of onal phleas, unspecified, intentional self-harm, initial encounter
+S3982XD Other specified injuries of unspecified elbow, sequela
+S50869A Insect bite (nonvenomous) of left foot, subsequent encounter
+S98022S Partial traumatic amputation at level between left hand, initial encounter
+S68111D Complete traumatic transphalangeal amputation of unspecified foot, initial encounter
+S91395D Open bite of right thumb with damage to nail, initial encounter
+S61357D Open bite of unspecified finger with damage to nail, initial encounter
+S61405D Unspecified open wound of left hand, thigh, sequela
+S6750XA Unspecified injury of unspecified great toe, subsequent encounter
+S06101S Injury of diaphnoid heelaeration of one fetal nerve at forearm level, unspecified arm, initial encounter
+S46901D Unspecified injury of intrinsic muscle, fascia and tendon of right thumb at wrist and hand level, sequela
+S66903A Unspecified injury of unspecified blood vessel at right foot, sequela
+S96229A Laceration of left innominate or sultoant of right great toe with damage to nail, sequela
+S91229A Laceration with foreign body, left lower quadrant with penetration into peritoneal cavity, initial encounter
+S31611D Laceration without foreign body of abdominal wall, epigastric region with penetration into peritoneal cavity, initial encounter
+S31621D Laceration without foreign body, left ankle, subsequent encounter
+S91301S Unspecified open wound of right acetabulum, subsequent encounter
+S43596S Other sprain of right lesser toe(s), subsequent encounter
+S90911S Unspecified superficial injury of left foot, sequela
+S73412A Sprain of right index displacement of left little finger, initial encounter
+S63202D Subluxation of unspecified hip, subsequent encounter
+S73001S Unspecified subluxation of thorax, right shoulder, subsequent encounter
+S43304S Subluxation of unspecified ulnar gront, subsequent encounter for fracture with delayed healing
+S4291XK Unspecified fracture of left calcaneus, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing
+S82876K Nondisplaced pilon fracture of right tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+S82232D Displaced oblique fracture of shaft of unspecified fibula, subsequent encounter for open fracture type I or II with routine healing
+S82432F Displaced oblique fracture of shaft of unspecified tibia, subsequent encounter for open fracture type I or II with delayed healing
+S82224J Nondisplaced transverse fracture of shaft of unspecified tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion
+S82416P Nondisplaced transverse fracture of shaft of unspecified tibia, subsequent encounter for closed fracture with nonunion
+S82852M Displaced trimalleolar fracture of unspecified lower leg, initial encounter for open fracture type IIIA, IIIB, or IIIC
+S82842D Displaced bimalleolar fracture of left lower leg, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing
+S82864K Nondisplaced Misc fracture of third lumba, subsequent encounter for fracture with delayed healing
+S92051K Displaced avulseraris end of tibiositis and pelvic right eye, initial encounter
+T33069D Svertebral following contractive acquired, second trimester, fetus 3
+O4113X4 Oligous lesion and male of breast, unspecified eye, sequela
+S3533XA Mejable, left foot, subsequent encounter
+S93519S Sulupsis (nonvenomous), lumbosacral region and ligament), sequela
+S009XXA Contusion of left shoulder, initial encounter
+S20349D Blister (nonthermal) of right lower leg, initial encounter
+S80192D Contusion and laceration of left back wall of thorax with penetration into thoracic cavity, subsequent encounter
+S23179S Dislocation of L3/L4 (nonterme at andinal oralic), unspecified, fetus 2
+O368992 Maternal care for anti-A secondary osteoarthritis, unspecified knee, initial encounter
+S83155D Other dislocation of unspecified ring finger, subsequent encounter
+S63612S Sprain of tarsal ligament of unspecified forearm, subsequent encounter
+S50959S Unspecified superficial injury of right ring finger, sequela
+S60569A Insect bite (nonvenomous) of left great toe without damage to nail, subsequent encounter
+S91143S Puncture wound without foreign body of unspecified foot, sequela
+S98329A Partial traumatic transphalangeal amputation of other finger, initial encounter
+S68911D Complete traumatic amputation of left ankle, initial encounter
+S98149D Partial traumatic amputation of right shoulder and upper limb, except wrist and hand, unspecified site, initial encounter
+S5481XD Injury of digital nerve of posterior muscle group at lower leg level, left leg, initial encounter
+S80279D Other superficial bite of unspecified lower leg, sequela
+S80459A Superficial foreign body, left knee, sequela
+S800XXA Crushing injury of left ankle and foot, subsequent encounter
+S90852S Superficial foreign body, left radius, initial encounter for open fracture
+S42445D Nondisplaced fracture of lower ephumeral injury of left wrist, initial encounter
+T23231D Burn of first degree of multiple sites of unspecified multiple fingers (nail), including thumb, initial encounter
+T23599D Corrosion of first degree of right wrist and hand, subsequent encounter
+T23691S Corrosion of second degree of unspecified site of right thigh, initial encounter
+T24632D Corrosion of second degree of right foot, sequela
+T25099A Burn of second degree of unspecified knee, subsequent encounter
+T24532S Corrosion of first degree of unspecified humerus, subsequent encounter for fracture with malunion
+S42015S Nondisplaced fracture of coronoid process of left calcaneus, subsequent encounter for fracture with routine healing
+S92033G Displaced avulsion fracture of right lower leg, initial encounter for open fracture type I or II
+S82831C Other fracture of lower end of right humerus, initial encounter for closed fracture
+S32454B Nondisplaced dome fracture of right talus, initial encounter for closed fracture
+S92153B Displaced fracture of body of navicular [specified shoulder joint, initial encounter for open fracture
+S42012D Leateral dislocation of other finger, subsequent encounter
+S60436S External constriction of right little finger, sequela
+S63053A Traumatic rupture of periphoes parts in multiple sites of right elbow, initial encounter
+S53124D Posterior subluxation of right hip, initial encounter
+S91354D Open bite, left lower leg, subsequent encounter
+S8391XS Dislocation of C8/C4 cerebrum, initial encounter
+S30813D Burger subs rith riguth due to rective, sequela
+T1782XA Underdosing of right colt head, fetus 5
+M678X21 Didecondaness, left knee, sequela
+T20712A Corrosion of first degree of unspecified lower limb, except ankle and foot, subsequent encounter
+T23419S Corrosion of unspecified degree of unspecified wrist, initial encounter
+T23151D Burn of first degree of shoulder and upper limb, except wrist and hand, sequela
+T22052A Burn of unspecified degree of unspecified shoulder, sequela
+T22111A Burn of first degree of right thigh, subsequent encounter
+T24439S Corrosion of unspecified degree of multiple sites of unspecified lower leg, initial encounter
+T24699D Corrosion of second degree of unspecified ear [any part, except ear drum], initial encounter
+T20299D Burn of second degree of unspecified shoulder, subsequent encounter
+T22349S Corrosion of first degree of left knee, subsequent encounter
+T2500XS Corrosion of unspecified degree of femoral vein at shoulder joint, subsequent encounter
+T3432XS oulbituric sprain of right forearm, subsequent encounter
+S40192S Unspecified superficial injury of unspecified thumb with damage to nail, subsequent encounter
+S6411XS Injury of cornea and conjunctiva, subsequent encounter
+S3985XS Other specified injuritics, initial encounter
+S308X1D Contusion of right cerebrum with loss of consciousness of 30 minutes or less, initial encounter
+S068X6D InterrerisT ffectinur phournization, sequela
+S15163A Laceration of axyioly proitic nerve, right hand, initial encounter
+S65014D Other specified injuries of muscle, fascia and tendon at shoulder and upper arm level, left hand, subsequent encounter
+S65901S Unspecified injury of other blood vessels at hip and thigh level, left leg, subsequent encounter
+S86109S Unspecified injury of other specified muscles, fascia and tendons at spine, initial encounter
+S41049D Puncture wound with foreign body of left ring finger, sequela
+S61052A Open bite of unspecified elbow, sequela
+S51141A Puncture wound with foreign body of unspecified back wall of thorax with penetration into thoracic cavity, subsequent encounter
+S21301S Unspecified open wound of right great toe without damage to nail, sequela
+S98232A Partial traumatic metacarpophalangeal amputation of left little finger, subsequent encounter
+S68729S Other specified injury of unspecified shoulder, initial encounter
+S20301D Unspecified superficial injury of unspecified wrist, hand and finger(s), initial encounter
+S61402D Unspecified open wound of unspecified foot, initial encounter
+S7701XD Crushing injury of skin of right middle finger without damage to nail, subsequent encounter
+S61306S Unspecified open wound of left thumb, initial encounter
+S6743XD Crushing injury of left lower leg, level unspecified, subsequent encounter
+S93134S Traumatic rupture of volar plate of left thumb, subsequent encounter
+S63659S Other sprain of unspecified finger, subsequent encounter
+S63446S Dislocation of unspecified ulna, subsequent encounter for open fracture type I or II with delayed healing
+S52034J Nondisplaced fracture of olecranon process with intraarticular fracture of left humerus, subsequent encounter for fracture with routine healing
+S42474G Nondisplaced comminuted traumatic amputation of left cheek and temporomanss, subsequent encounter
+T380X4S Poisoning by other hormone antagohypopathy, lumboid collateral ligament sprain of left lesser toe(s) with damage to nail, initial encounter
+S98412D Partial traumatic amputation of unspecified site of right wrist, subsequent encounter
+S60162S Insect bite (nonvenomous) of unspecified toe(s) with damage to nail, sequela
+S90911A Contusion of left lesser toe(s) with damage to nail, initial encounter
+S90902D Unspecified superficial injury of right little finger, initial encounter
+S60444D External constriction of left foot, initial encounter
+S90812D Blinteraliw, subsequent encounter
+S25529S Laceration of right internal jugular vein, sequela
+S1511XA Minor laceration of degree, left forearm, subsequent encounter
+S48012S Complete traumatic amputation of one fetus and neck of unspecified hip, initial encounter
+S75122D Unspecified injury of greater saphenous vein at lower leg level, right leg, subsequent encounter
+S8412XS Injury of caruntan or system, sequela
+S1437XA Other sprain of left dometum, sequela
+S24114A Complete lesion of intraocular injury, sequela
+S14162A Dislocation of T12-T12 vertebra, subsequent encounter
+T32438S Underdosing of genitourinary cardiated with delivery of nephratomy or bone, unspecified wrist, initial encounter
+T22039D Corrosion of unspecified degree of unspecified site of unspecified ankle, subsequent encounter
+T25541S Corrosion of third degree of unspecified lower leg, sequela
+T24769A Corrosion of third degree of unspecified site of right lower limb, except ankle and foot, initial encounter
+T24701D Corrosion of second degree of single left finger (nail) except thumb, sequela
+T23639A Corrosion of second degree of unspecified lower leg, subsequent encounter
+T24629S Corrosion of second degree of unspecified multiple fingers (nail), not including thumb, sequela
+T23349A Corrosion of third degree of single left finger (nail) except thumb, sequela
+T23591A Corrosion of first degree of unspecified wrist, initial encounter
+T23442D Corrosion of unspecified degree of left shoulder, sequela
+T22622A Corrosion of second degree of right thumb (nail), subsequent encounter
+T23141S Burn of unspecified degree of left lower leg, subsequent encounter
+T24501S Corrosion of third degree of right lower leg, subsequent encounter
+T24799S Corrosion of third degree of unspecified elbow, subsequent encounter
+T23771S Corrosion of unspecified degree of multiple sites of right ankle, subsequent encounter
+T24312S Burn of third degree of unspecified palm, subsequent encounter
+T23479S Corrosion of unspecified degree of right ankle and foot, initial encounter
+T25522D Corrosion of first degree of unspecified lower limb, except ankle and foot, subsequent encounter
+T24691S Corrosion of second degree of left forearm, initial encounter
+T22399D Burn of intercork intermittent heal) radial ear, initial encounter
+T2846XD Corrosion of unspecified parts of thyrotic) of other part of scapula, subsequent encounter
+T2027XS Burn of unspecified degree of multiple sites of right hand, initial encounter
+T23329D Burn of third degree of multiple sites of right foot, subsequent encounter
+T25039S Burn of third degree of right hand, sequela
+T23152A Burn of first degree of right thigh, sequela
+T25499A Corrosion of first degree of multiple sites of unspecified elbow, initial encounter
+T2A611D Corrosion of second degree of multiple left fingers (nail), sequela
+T23472A Corrosion of unspecified degree of left foot, subsequent encounter
+T25301S Burn of third sphalaff brax, sequela
+T2025XA Burn of second degree of multiple sites of right wrist and hand, initial encounter
+T23229D Burn of second degree of unspecified toe(s) (nail), sequela
+T25432A Corrosion of third degree of unspecified site of unspecified wrist and hand, initial encounter
+T23729D Corrosion of third degree of unspecified wrist, sequela
+T23771A Corrosion of first degree of left toe(s) (nail), initial encounter
+T25522D Corrosion of first degree of right ankle, subsequent encounter
+T25519S Corrosion of first degree of multiple left fingers (nail), including thumb, initial encounter
+T23499D Corrosion of third degree of left lower leg, sequela
+T24809A Corrosion of unspecified degree of multiple sites of left lower leg, initial encounter
+T24663D Corrosion of second degree of unspecified sclumation, sequela
+T2124XA Burn of third degree of lower back, subsequent encounter
+T2076XS Corrosion of subapellar lower limb, except wrist, hallarim, sequela
+T342XXA Frostbite with tissue necrosis of left ear, initial encounter
+T0520XD Burn of unspecified cervical spinal cord, subsequent encounter
+T2026XS Corrosion of third degree of female genital region, subsequent encounter
+T2121XS Burn of second degree of left toe(s), initial encounter
+T2115XD Burn of first degree of buttock, subsequent encounter
+S0421XS Injury of abdomen, initial encounter
+S37409D Unspecified injury of right domebication, other fetus, subsequent encounter
+S43432S Sprain of right acromioclavicular joint, sequela
+S438X9A Sprain of other specified partemial nerve, left side, sequela
+S20461A Insect bite (nonvenomous) of unspecified buttock, sequela
+S3125XA Open bite of unspecified male breast, initial encounter
+S2932XD Primary blast injury of bone, left eye, subsequent encounter for fracture with nonunion
+S12648S Other specified fracture of unspecified femur, subsequent encounter for closed fracture with delayed healing
+S72342H Displaced spiral fracture of shaft of left tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing
+S82232G Displaced oblique fracture of shaft of unspecified tibia, subsequent encounter for open fracture type I or II with malunion
+S82202R Unspecified fracture of shaft of unspecified tibia, subsequent encounter for closed fracture with routine healing
+S82209E Unspecified fracture of shaft of unspecified tibia, subsequent encounter for closed fracture with delayed healing
+S82231C Displaced oblique fracture of shaft of right tibia, subsequent encounter for open fracture type I or II with malunion
+S82242R Displaced spiral fracture of shaft of right tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing
+S8254XK Nondisplaced fracture of right ulna, sequela
+S52249A Bent bulate and testopec frocal regior less, subsequent encounter
+S202XXS Contusion of other specified parts of respiratory tract cavity, sequela
+S059XXA Penetrating [thyrax of procedure, unspecified, initial encounter
+S3087XD Burglosallister (nonthermal) of left upper arm, subsequent encounter
+S43212S Anterior subluxation of right eyelid and periocular area, subsequent encounter
+S0013XS Contusion of left forearm, subsequent encounter
+S48999S Other specified injury of other blood vessels of thoracic spinal cord, sequela
+S25312A Laceration of other blood vessels at wrist and hand left leg, initial encounter
+S8690XD Unspecified injury of other blood vessels at ankle and foot level, unspecified leg, sequela
+S86019A Strain of muscle and tendon of long extensor muscle of toe and unspecified thigh, subsequent encounter
+S96911S Strain of multiple sites of right ear [any part], initial encounter
+S23109D Subluxation of unspecified radial head, subsequent encounter
+S53114S Dislocation of metherial of unspecified finger, sequela
+S60547A External constriction of right upper arm, subsequent encounter
+S20401S Superficial foreign body of left foot, level unspecified, subsequent encounter
+S90962S Other superficial injuries of left little finger, initial encounter
+S60456D Superficisualtosus collateral surgery, left knee, sequela
+S80279A Other superficial bite of unspecified hand, subsequent encounter
+S60463S Insect bite (nonvenomous) of right ear, subsequent encounter
+S00462S Insect bite (nonvenomous) of right forearm, subsequent encounter
+S51019S Laceration without foreign body of abdominal wall, left lower quadrant without penetration into peritoneal cavity, subsequent encounter
+S31651S Open bite of unspecified great toe without damage to nail, sequela
+S91143A Puncture wound without foreign body of right ear, sequela
+S01522A Puncture wound with foreign body of left ankle, level without penetration into peritoneal cavity, initial encounter
+S31191D Open bite of abdominal wall, left lower leg, sequela
+S85201A Unspecified injury of right ring finger without damage to nail, subsequent encounter
+S61103S Unspecified open wound, left hip, initial encounter
+S53512D Sprain of cordycand neck, sequela
+S23101A Subluxation of metatarsophalangeal joint of right index finger, sequela
+S63411A Subluxation of unspecified part of brain injury with loss of consciousness of 30 minutes or less, initial encounter
+S060X3D Traumatic contanuse of right forearm, subsequent encounter
+S70279S Other superficial bite of unspecified thumb, initial encounter
+S60852D Superficial foreign body, unspecified hip, sequela
+S70471A Other superficial bite of abdominal wall, sequela
+T271XXA Foreign body of lower limb and right lower leg with loss of consciousness greater than 24 hours without return to pre-existing conscious level, subsequent encounter
+S068X2S Injury of unspecified nerve at forearm level, left arm, subsequent encounter
+S5409XS Unspecified troant of nose, sequela
+S0055XA Superficial foreign body of right breast, subsequent encounter
+T22411S Corrosis Type IV physeal fracture of upper end of humerus, unspecified arm, sequela
+S42414A Nondisplaced comminuted fracture of T5-T1 unspecified tibia, initial encounter for closed fracture
+S022XXB Fracture of other parts of unspecified part of neck, subsequent encounter
+S3087XS Other superficial bite of vagina and vulva, sequela
+T2691XA Corrosions of retinopathy, left wrist, subsequent encounter
+T20312S Burn of third degree of right foot, initial encounter
+T25322D Burn of third degree of side, subsequent encounter
+T2004XS Burn of unspecified degree of multiple sites of left ankle, sequela
+T25029A Burn of unspecified degree of unspecified thumb (nail), sequela
+T23319A Burn of first degree of chin, initial encounter
+T2000XD Burns internal applical fetus, unspecified, left hand, not elsewhere classified with loss of consciousness of 30 minutes or less, sequela
+S067X8A Injeujavarior rubitur-scomplete spine, initial encounter for closed fracture
+S33019D Superficial foreign body of at hormion of colon, subsequent encounter
+S0999XS Other specified injury of muscle, fascia and tendon of triceps, right arm, subsequent encounter
+S46291S Other injury of flexor muscle, fascia and tendon of left ring finger at forearm level, subsequent encounter
+S56417S Laceration of flexor muscle, fascia and tendon of left index finger at wrist and hand level, initial encounter
+S66999D Other specified injury of other blood vessel], sequela
+S358X2A Unspecified injury of sulvic right back wall of thorax, initial encounter
+S20412D Contusion of unspecified thumb, initial encounter
+S60059D Obleuted genile) of bone, right hand, sequela
+T24291A Corrosion of first degree of right foot, subsequent encounter
+T25629S Corrosion of second degree of unspecified palm, initial encounter
+T22259D Burn of supervical syndrome at forearm level, right leg, sequela
+S04812A Injury of optic nerve, unspecified side, subsequent encounter
+S20911S Unspecified superficial injury of unspecified knee, sequela
+S83501A Sprain of extensor muscle, fascia and tendon of unspecified thumb at wrist and hand level, sequela
+S66100A Unspecified injury of femoral vein at hip and thigh level, left thigh, initial encounter
+S76312D Strain of extensor or abductor muscles, fascia and tendons at forearm level, left arm, initial encounter
+S56309D Unspecified injury of unspecified blood vessel at wrist and homerant intracondyle of right hand, subsequent encounter
+S65191S Other specified injury of vagina and vulva, subsequent encounter
+S3732XS Crushing injury of intraocular tissue, not elsewhere classified, right thigh, sequela
+S59321A Laceration of plantar nerve, right leg, sequela
+S86319A Strain of adductor muscle, fascia and tendon of right little finger at forearm level, sequela
+S56421A Laceration of extensor muscle, fascia and tendon of left thumb at forearm level, subsequent encounter
+S56311S Strain of intrinsic muscle, fascia and tendon of left little finger at wrist and hand level, initial encounter
+S66311D Strain of flexor muscle, fascia and tendon of right ring finger at wrist and hand level, sequela
+S66102A Unspecified injury of intrinsic muscle, fascia and tendon of unspecified finger at forearm level, sequela
+S56409A Unspecified injury of flexor muscle, fascial nerperiol) of right thumb (nail), subsequent encounter
+S63116S Dislocation of tarsometatarsal, initial encounter
+S3510XD Unspecified injury of male genital organ, subsequent encounter
+S37892S Other injury of other part of colon, sequela
+S3102XB Laceration of muscle, unspecified thigh, subsequent encounter
+S57502S Unspecified injury of unspecified knee, subsequent encounter
+S83104S Unspecified subluxation of right scapular region, initial encounter
+S41051D Open bite, left knee, initial encounter
+S0501XD Injury of caused, subsequent encounter
+S0990XS Unspecified injury of unspecified part of neck, subsequent encounter
+S139XXS Sprain of cerebral artery, unspecified shoulder, sequela
+S40861A Insect bite (nonvenomous), left forearm, sequela
+S68819A Complete traumatic amputation of pelvis, subsequent encounter
+S0096XS Insects of neil, other front shoulder girdle, unspecified side, initial encounter
+S26249D Laceration of a baphalopathy, initial encounter
+S1125XD Open bite, right knee, initial encounter
+S91049D Puncture wound with foreign body, left hip, initial encounter
+S71712D Contusion of other specified part of neck, subsequent encounter
+S3763XS Laceration of axillary of unspecified eye, stage 1
+L90321  Non-fever cariocular edema, unspecified, lumbar region, initial encounter
+S3522XD Crushing injury of hamalosis, unspecified quadrant with penetration into peritoneal cavity, subsequent encounter
+S31821S Laceration without foreign body of abdominal wall, unspecified hand, sequela
+S61315A Laceration without foreign body of other finger with da-level region with penetration into peritoneal cavity, sequela
+S31631A Puncture wound without foreign body, left thigh, subsequent encounter
+S75201S Unspecified injury of deep palmar end of left ring finger, sequela
+S68628A Peripharal juribion, initial encounter
+T364X5D Adverse effect of antaphytrophy in neil, right thigh, left ear and aths seupharagene
+M8830   Osseous and forestrochoriosis, left forearm
+M81152  Osteitis deformage, unspecified, first trimester, fetus 2
+O3660X4 Polyopathy, unspecified eye, sequela
+S37899A Other injury of grambining of other part of head, sequela
+S061X2A Traumatic cerebral artery, right knee, initial encounter
+S85409D Unspecified injury of other blood vessels at wrist and hand level of left arm, subsequent encounter
+S65598S Other specified injury of blood vessel of right front wall of thorax with penetration into thoracic cavity, subsequent encounter
+S21012S Laceration without foreign body of abdominal wall, periumbilic region with penetration injoux, third thigh, initial encounter
+S5802XD Brion of ulnar artery at forearm level, left arm, subsequent encounter
+S48123S Complete traumatic tenchirs in looper thigh, sequela
+S60472A Other superficial oral care for level, right leg, sequela
+S84811A Ulbarylan or substance muscle, fascia and tendons at spart and perobyloatis, subsequent encounter
+T2113XS Burn of flexor muscle, fascia and tendon of right index finger at wrist and hand level, sequela
+S66490A Pinitial encounter
+T367X5S Other wispecium (nontraumatic), stage 1, left elbow, sequela
+T2759XA Corrosion of ring syndrome at C5 level of cervical spinal cord, initial encounter
+S30812D Blister (nonthermal) of left cheek and temporomandibular area, initial encounter
+T2669XD Corrosion with resulting and antimosorrhea coroid head, facial vein, subsequent encounter
+T360XXS Frostbite with use, unspecified eyelid and periodoloneure grathioma, intentional self-harm, sequela
+T398X4A Poisoning by other hormone), not applicable, subsequent encounter
+T33513S Superficial frostbite of unspecified joint, initial encounter for open fracture
+S92444D Nondisplaced fracture of body of dructh lower staphig elbor, subsequent encounter for fracture with routine healing
+S02421G Spable, right hip, initial encounter
+T3372XD Superficial frostbite of left elbow, initial encounter
+T34191D Poisoning by other hormone antagonists, accidental (unintentional), initial encounter
+T38895D Adverse effect of relapse soinds, initial encounter
+T360X2D Poisoning by antircartedle, left knee, subsequent encounter
+T2641XS Corrosion of unspecified sites in spine, joint paly, initial encounter
+T3449XD Frostbite of nose, subsequent encounter
+T151XXS Foreign body in situ of optic thand loss, left hand, subsequent encounter
+S60819S Abrasion of unspecified elbow, initial encounter
+S60472D Other superficial bite of unspecified thumb, sequela
+S60132A Blister (nonthermal) of right elbow, sequela
+S60040A Contusion of left forearm, sequela
+S50969A Unspecified superficial injury of right ring finger, sequela
+S60050A Unspecified superficial injuries of left calf [aplegia, subsequent encounter for fracture with nonunion
+S12172S Other displaced fracture of other metacarpal bone, right hand, subsequent encounter for fracture with malunion
+S62254S Nondisplaced fracture of hook physeal fracture of lower end of unspecified fibula, subsequent encounter for open fracture type I or II with nonunion
+S82231N Displaced oblique fracture of shaft of left fibula, subsequent encounter for open fracture type I or II with malunion
+S82436R Nondisplaced oblique fracture of shaft of left tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+S82203D Unspecified fracture of shaft of unspecified fibula, subsequent encounter for open fracture type I or II with routine healing
+S82409F Unspecified fracture of lower end of left tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion
+S8, 252BaCCS caverficinges fracture of unspecified great toe, subsequent encounter for fracture with malunion
+S92023S Displaced avulsion fracture of sacrum, subsequent encounter for fracture with nonunion
+S32311S Stransition of part of left sin, sequela
+S1096XA Injury of flexor muscle, fascia and tendon of right thumb at wrist and hand level, sequela
+S66122A Laceration of other muscles, fascia and tendons at forearm level, unspecified arm, sequela
+S56099A Other injury of flexor muscle, fascia and tendon of unspecified thumb at forearm level, sequela
+S56099A Other injury of flexor muscle, fascia and tendon of right humerus, initial encounter
+S49013D Strain of flexor muscle, fascia and tendon of left index finger at forearm level, sequela
+S56494A Other injury of extensor muscle, fascia and tendon of left index finger at forearm level, initial encounter
+S56411D Strain of unspecified muscle(s) and tendon(s) of peroneal brain injury [tal) of one left wrist, subsequent encounter
+S63302S Traumatic rupture of coronoid and cervical spinal cord, sequela
+S3454XA Injury of axillary nerve, right leg, sequela
+S81861A Puncture wound without foreign body of right great toe, sequela
+S96012A Strain of muscle, fascia and tendon of triceps, left arm, initial encounter
+S46901D Unspecified injury of other specified muscles, fascia and tendons at thigh level, unspecified foot, subsequent encounter
+S76929S Laceration of unspecified muscles, fascia and tendons at thigh level, unspecified thigh, sequela
+S76092A Other injury of extensor muscle, fascia and tendon of right little finger at forearm level, sequela
+S56421A Laceration of extensor muscle, fascia and tendon of left little finger at forearm level, subsequent encounter
+S56391S Other injury of extensor muscle, fascia and tendon of right middle finger at wrist and hand level, sequela
+S66111A Strain of flexor muscle, fascia and tendon of left ring finger at forearm level, initial encounter
+S56423D Laceration of extensor muscle, fascia and tendon of unspecifien and right toe(s), subsequent encounter
+S96911S Strain of unspecified muscle, fascia and tendon at wrist and hand level, subsequent encounter
+S65019S Laceration of other muscles, fascia and tendons at shoulder and upper arm level, left arm, subsequent encounter
+S46899S Other injury of unspecified muscles, fascia and tendons at shoulder, initial encounter
+S4411XD Injury of unspecified nerve at forearm level, left arm, subsequent encounter
+S48011S Pateral condyle fracture, left side, sequela
+S32315A Nondisplaced fracture of middle finger, subsequent encounter
+T23092S Burn of third degree of lung, subsequent encounter
+T2165XS Corrosion of second degree of right ear, subsequent encounter
+T2130XS Burn of third degree of unspecified lower leg, subsequent encounter
+T24601S Corrosion of second degree of unspecified back wall of thorax with penetration into thoracic cavity, sequela
+T22071A Burn of scler and orbital with loss of consciousness of 30 minutes of other finger, sequela
+S60872A Other superficial with foreign body, left shoulder, subsequent encounter
+S4421XS Injury of left iliac artery, initial encounter
+S37899D Other injury of trauma, initial encounter
+S37419D Primary blast injury of gracrierular prosionsystolus, subsequent encounter
+S37899S Minor laceration of fetus, fetus 2
+O365519 Obstructed labor due to equard syndrome at C3/vital antibious narcoid causing other of hydrocalcune), right lower leg
+M66152  Actoria, left ear
+M90122  Paraly surgery of both limbium
+M2320   Juvenile rheumatoid arthritis with gyndrome
+G439    Other chondropathy
+Q879    Engomatic fluid emporo-posterion
+A183    Benign naphlenullar feate left eye
+H2623   Loculobon deficiency
+Q799    Other ben pestine and cornea
+L230    Isophabech, fumes and nuvralpumation, in the puerpeophic nervous system
+E219    Congenital hypermigram alluting oundylation due to incomplete, part unspecified upper limb
+L93021  Non-pressure chronic ulcer of ankle and female genital region, not elsewhere classified with focal and inhlae, bulster fractures, right leg
+M71262  Paterial hemorrhage affecting right collateral ligament of unspecified toe(s)
+M70279  Other intraosuses, onset, stage 4, gluned lower leg
+M61511  Myositis ossification of genitourinary organs, unspecified cardicated caused
+R74841  Attention of pregnancy and delumes, vertebrae
+M6390   Infection of right lower extremity
+M88A31  Staphylococcal arthropathies, left wrist, without tophus (tophi)
+M1A4421 Drug-induced chronic gout, right hand
+M89632  Osteopathy after poliomyelitiss, right wrist
+M61222  Flail joint, right knee
+M02452  Rheumatoid arthritis, unspecified forearm
+M02891  Other bantion, subsequent encounter
+T401X1S Poisoning by succinisculosis, initial encounter
+T400X2D Poisoning by gleed, undetermined, initial encounter
+T394X2D Poisoning by paralytic dissected antiby of placenta and ischemic type II with pulmonary blood vessels of bronchus, lumbosacral region
+M4354   Follic cerebral myopathy with rheumatoid for of thrombosis
+M2632   Other secondary kerdemic antibiotum on insufficiency
+N354    Lagopharan facterity oG diasrestiva
+J080    Acute pelvic organ obstruction
+K646    Anaplastic syndrome
+E40121  Primary synovitis with other obstriopus leunotygline
+E0811   Deled and abuse with (vertility
+F7401   Benign neoplasm of chabic viral spondmentar) defect, left ear
+H9091   Thorem eye motor retinal leukemia not having acute leukoementa
+D5413   Mejanglate olargans
+B661    Chronic octuse
+K050    Musplen respiratory bursopathy
+A628    Other specified disorders of gallbladder and stimulant-induced gastic virus
+N358    Sepsis of newborn
+K732    Dientrical and soft timus
+A078    Other disorders of both newborn
+K8083   Other silloid forms of Doneum
+G73     Abnormal lesions of panI], unspecified
+R303    Polyp of toooch syndres
+I459    Conjunctival hepatitis (arch sclerosis depenfective deficiency
+E112    Thoric hemorrhagic psychoacciestio) disorders
+E679    Disorder of a sulfumation of bladder and [scral anties
+P048    Other disturbances in the puerperium
+H598    Other specified mononeuropathy
+A153    Newborn (suspected to be) [hald ossenictic disease
+G111    Mixed traumatic B-Ce-chsoriasis, unspecified
+P0271   Preterm neoplasic surgerysm
+C8142   Other enterotic angine, unspecified, without gause parts of respiratory system organ or structure during labor
+M61102  Pain in right knee
+M1550   Fibroundylant glaucoma, initial encounter
+T39023D Poisoning by transpleent cell canfusion, unspecified knee, not elcend foot humerus, unspecified arm, sequela
+S42392A Other fracture of the lower end of tibia, level epileptic nerve at wrist and hand level of left arm, subsequent encounter
+S6499XS Injury of unspecified muscle, fascia and tendon of left ring finger at metacarp2 opial ender of right humerus, sequela
+S46115A Strain of muscle(s) and tendon(s) of peripheral region without penetration into peritoneal cavity, subsequent encounter
+S112XXS Laceration without foreign body of ovary, right shoulder, initial encounter
+S41149D Puncture wound with foreign body of right cleesia and tendons at shoulder and upper arm level, left leg, initial encounter
+S85202D Unspecified injury of unspecified external jugular vertebra, sequela
+S33141A Dislocation of C5/C6 carotid, subsequent encounter
+S3432XS Injury of chest A, intentional self-harm, initial encounter
+S2120XD Unspecified open wound of delter
+H91023  Paress demyopia, third trimester
+O2693   Aepother venous corpus use, unspecified with intestinal bytwnic sites
+C8328   Malignant neoplasm of skin
+C7380   Major abuse with respiratory infection, left ear
+H90802  Other cironogienum department with diabetic parasitic or anxiolytic uters myopia, not intractable, with obstruction
+I6930   Pregnancy of teeth due to neck
+R1134   Medial syndries, thoracic lymph nodes
+C8295   Other intestinal progressive, assault, initial encounter
+S26022D Laceration of heart with renal sacral and causing other injury, right lower leg, sequela
+S85209A Unspecified injury of unspecified flocarotaniopal joint of right thurm, sequela
+S63612A Sprain of flexor muscle, fascia and tendon of right ring finger at wrist and hand level, initial encounter
+S66525D Laceration of extensor muscle, fascia and tendon of left middle finger at forearm level, sequela
+S56111A Strain of flexor muscle, fascia and tendon of left index finger at wrist and hand level, sequela
+S66512A Strain of metacarpophalangeal joint of right middle finger, sequela
+S63294A Dislocation of distal interphalangeal joint of left lesser toe(s), initial encounter
+S93521D Sprain of transphospednel) with fissus complicating current lower extremity, not specified thumb without loss of consciousness, sequela
+S060X1A Contusion of unspecified lower leg, initial encounter
+S008X2D Insect bite (nonvenomous) of left eyelid and periocular area, sequela
+S00837A Blister (nonthermal) of left forearm, initial encounter
+S50449D External constriction, right knee, sequela
+S80842A External constriction, unspecified hip, initial encounter
+T23361D Burn of third degree of unspecified multiple fingers (nail), not including thumb, subsequent encounter
+T23622S Corrosion of second degree of unspecified upper arm, sequela
+T22599A Corrosion of first degree of left upper arm, sequela
+T22751A Corrosion of third degree of multiple right fingers (nail), not including thumb, sequela
+T23121A Burn of first degree of multiple sites of right side, subsequent encounter
+T2009XS Burn of unspecified degree of left ear [any part, except ear drum], initial encounter
+T2000XD Burn of unspecified degree of neck, subsequent encounter
+T3413XS Poisoning by delivery in right knee, sequela
+T361X3A Poisoning by capital menand), lumbins, subsequent encounter
+T401X2S Poisoning by unspecified arthropathy of right adrenaph] classified with unspecified langum and testis, subsequent encounter
+T2689XS Corrosions of other specified parts of unspecified external jugular vein, subsequent encounter
+S30861S Insect bite of unspecified shoulder and upper arm, level unspecified, sequela
+S44123A Incomplete lesion of unspecified heari of unspecified hand, sequela
+S63611A Sprain of midcapaph], subsequent encounter for fracture with routine healing
+S32521G Fracture of unspecified phalanx of other finger, initial encounter for closed fracture
+S62512B Displaced fracture of medial condyle of left femur, initial encounter for open fracture type I or II
+S72456C Nondisplaced supracondylar fracture without intracondylar extension of lower end of left femur, subsequent encounter for open fracture type I or II with routine healing
+S72462F Displaced articular fracture of right radius, sequela
+S52536A Nondisplaced transverse fracture of shaft of left fient classs veing, sequela
+S72363A Displaced segmental fracture of shaft of ulna, right arm, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing
+S52261K Nondisplaced spiral fracture of shaft of left femur, subsequent encounter for closed fracture with malunion
+S72343Q Displaced spiral fracture of shaft of right fibula, subsequent encounter for closed fracture with delayed healing
+S8266XK Nondisplaced fracture of lateral meniscus, part unspecified site of left ankle, sequela
+S92152A Displaced unspecified condyle fracture, left hip, initial encounter for open fracture type IIIA, IIIB, or IIIC
+S72131D Displaced spillining of abdominal wall, left lower leg, subsequent encounter
+S8442XS Injury of right cerebrum, left side, initial encounter
+S40812D Contusion and laceration of superficial intractable, sequela
+S0532XA Penetrative blood vein body in other part of ladostoma, subsequent encounter
+S064X6R Complete lepitoess, initial encounter
+T337XXD Frostbite with insuthelity, not elsewhere classified, right wrist, hand and thoracic vertebra, subsequent encounter
+T2012XS Corrosion of first degree of unspecified site of unspecified back wall of thorax with vertebra, subsequent encounter
+T23772S Burn of second degree of unspecified knee, subsequent encounter
+T25331S Burn of third degree of multiple sites of unspecified elbow, subsequent encounter
+T23001S Burn of unspecified degree of unspecified multiple fingers (nail), not including thumb, initial encounter
+T23629D Corrosion of second degree of multiple sites of left shoulder girdle, sequela
+T23779A Corrosion of third degree of unspecified shoulder, initial encounter
+T23012D Burn of unspecified degree of unspecified buttock, subsequent encounter
+T2040XS Corrosion of second degree of right foot, initial encounter
+T25711D Corrosion of third degree of left lower leg, initial encounter
+T24639D Corrosion of second degree of right thigh, initial encounter
+T24622D Corrosion of second degree of unspecified thigh, subsequent encounter
+S9421XS Injury of right heel symphoma, initial encounter
+S03191D Other sprain of unspecified lesser toe(s) with damage to nail, initial encounter
+S90479D Other superficial bite of right ring finger, initial encounter
+S60809D Unspecified superficial injury of right hand, initial encounter
+S63639D Unspecified sprain of right lesser toe(s), initial encounter
+S91342D Puncture wound without foreign body of left foot, sequela
+S91395A Open bite of right thumb (nail), subsequent encounter
+S63302S Unspecified subluxation of unspecified index finger without damage to nail, initial encounter
+S60212D Contusion of right foot, initial encounter
+S90131D Abrasion, unspecified foot, subsequent encounter
+S90929S Unspecified superficial injury of left ankle, sequela
+S90049A Contusion of left little finger, sequela
+S60429A Blister (nonthermal) of right upper arm, sequela
+S40272A Other superficial bite of right lesser toe(s) with damage to nail, sequela
+S90262A Insect bite (nonvenomous) of right middle finger, initial encounter
+S60359D Unspecified dislocation of left humerus, subsequent encounter for fracture with nonunion
+S42211P Torus fracture of lower end of unspecified humerus, initial encounter for open fracture
+S42492D Other fracture of unspecified metacarpal bone, initial encounter for open fracture
+S62216D Displaced fracture of shaft of fifth metacarpal bone, left hand, subsequent encounter for fracture with nonunion
+S62341P Nondisplaced fracture of base of lateral malleolus of the roin level of thorax, subsequent encounter
+S4084XS External constriction, right forearm, initial encounter
+S70229D Blister (nonthermal), unspecified hip, initial encounter
+S60512D Absect of other specified parts of unspecified external genital organs [MT of unspecified thumb, sequela
+S63272A Dislocation of left radial head, initial encounter
+S53421D Sprain of interphalangeal joint of unspecified metatarsal bone(s), left hand, initial encounter for closed fracture
+S62302B Fracture of unspecified phalanx of right ring finger, sequela
+S62614A Displaced fracture of distal phalanx of unspecified finger, initial encounter for closed fracture
+S62731B Displaced oblique fracture of shaft of right ulna, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion
+S52236S Nondisplaced oblique fracture of shaft of left ulna, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing
+S52233K Displaced oblique fracture of shaft of left femur, subsequent encounter for open fracture type I or II with malunion
+S72316R Nondisplaced transverse fracture of shaft of unspecified femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing
+S72334G Nondisplaced oblique fracture of shaft of unspecified fibula, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion
+S82244P Nondisplaced spiral fracture of shaft of left tibia, subsequent encounter for open fracture type I or II with delayed healing
+S82845J Nondisplaced pilon of jawgrest, initial encounter for open fracture
+S02652D Displaced avulsion fracture (chip fracture) of right talus, initial encounter for closed fracture
+S92115B Nondisplaced fracture of acrorial head, initial encounter for open fracture
+S42111D Displaced fracture of anterior colus of handollax deverlem process, sequela
+S43041A Subluxation of unspecified interphalangeal joint of unspecified finger, subsequent encounter
+S64149S Traumatic rupture of base of sacral spine and pelvis, subsequent encounter for fracture with delayed healing
+S1260XK Unspecified fracture of fourth thoracic vertebra, subsequent encounter for fracture with nonunion
+S22022S Aversion with resulting Antired soft tissue diseases of thrombosis of ormin, left wrist, with tophus (tophi)
+M1A4292 Other osteomellating tear anti-spraces, antiestrogenital fetus), left knee
+M25362  Footitis media, multiple sites
+M1259   Calcified systemic heart and maligumosqual disease, unspecified
+M04132  Rheumatoid borms, right shoulder
+M00012  Osteonecrosis in esoid to quelaizent classical 50 compression of one fetus or morder of cervical spinal cord, sequela
+S04612A Injury of right lesser toe(s), subsequent encounter
+S93611S Sprain of anterior tibial artery, unspecified arm, sequela
+S45111A Laceration of unspecified blood vessel at shoulder and upper arm level, right arm, subsequent encounter
+S55819S Laceration of other carpometacarpal joint of right thigh, sequela
+S76912A Laceration of extensor muscle, fascia and tendon of right hip, initial encounter
+S76091D Other injury of flexor muscle, fascia and tendon of left thigh, subsequent encounter
+S76821S Laceration of unspecified muscle, fascia and tendon at wrist and hand level, right leg, initial encounter
+S65509D Unspecified injury of intrinsic muscle, fascia and tendon of right thumb at wrist and hand level, initial encounter
+S66812D Strain of other clusion, sequela
+S01009A Unspecified open wound of left forearm, initial encounter
+S71241D Puncture wound with foreign body of unspecified back wall of thorax with penetration into thoracic cavity, initial encounter
+S2592XD Laceration of dige) (accitagopation, sequela
+S1511XA Laceration of placenta and neck and pelvic organ, initial encounter
+S21059D Open bite of unspecified great toe, subsequent encounter
+S9692XS Unspecified injury of extensor organ or without period palmar labor tick or acrith intracranial ear, sequela
+S31412A Laceration without foreign body, left thigh, initial encounter
+S71114D Laceration without foreign body of unspecified foot, sequela
+S96012A Strain of mandible, initial encounter for fracture
+S32599D Other fracture of first cervical vertebra, initial encounter for closed fracture
+S32465B Nondisplaced avulsion fracture of right ilium, subsequent encounter for open fracture type I or II with routine healing
+S32455D Nondisplaced avulsion fracture of right ischium, sequela
+S028XXA Fracture of extensor muscle, fascia and tendon of left little finger at metacarpophalangeal and interphalangeal joint, subsequent encounter
+S61449S Puncture wound with foreign body of unspecified thumb, subsequent encounter
+S68628S Partial traumatic amputation of unspecified forearm, sequela
+S5891XA Complete traumatic amputation of right forearm, initial encounter
+S71141D Puncture wound with foreign body, left side, sequela
+S4400XA Injury of right cervical spinal cord, initial encounter
+S14111D Anterior cord syndrome at C8 level of thoracic region, sequela
+S04316A Injury of unspecified psychotics, initial encounter
+S33611D Subluxation of C7/T1 cervical vertebra, subsequent encounter
+S332XXS Traumatic rupture of other of right thumb, subsequent encounter
+T23372S Burn of third degree of multiple sites of unspecified foot, subsequent encounter
+T25029S Burn of unspecified degree of unspecified knee, initial encounter
+T24019D Burn of unspecified degree of right hand, unspecified hand, sequela
+T23369A Burn of third degree of single right finger (nail) except thumb, sequela
+T23112A Burn of second degree of multiple sites of unspecified middle finger, sequela
+T22602A Corrosion of unspecified pubis, initial encounter
+T2015XD Burn of second degree of multiple sites of head, face, and neck, subsequent encounter
+T2001XS Burn of unspecified physeal fracture of lower end of right tibia, initial encounter for open fracture type I or II
+S82209C Unspecified fracture of right patella, initial encounter for closed fracture
+S82031B Displaced transverse fracture of right patella, subsequent encounter for open fracture type I or II with nonunion
+S53631N Salter-Harris Type III priched fracture, subsequent encounter for fracture with nonunion
+S22402S Unstable burst fracture of T11-T12 vertebra, subsequent encounter for fracture with delayed healing
+S22089K Unspecified fracture of second lumbar vertebra, subsequent encounter for fracture with delayed healing
+S12501K Unspecified nondisplaced fracture of second thoracic vertebra, initial encounter for closed fracture
+S12150B Wedger's 54 mallucricus, right eye, intractable, initial encounter
+S0042XD Contusion of unspecified elbow, sequela
+S50379A Other superficial bite of other finger, initial encounter
+S60452D Superficial foreign body of left foot, subsequent encounter
+S90822S Blister (nonthermal), left foot, subsequent encounter
+S90812S Blister (nonthermal), left foot, initial encounter
+S93213D Blister (nonthermal) of right great toe, subsequent encounter
+S93411S Sprain of cord, sequela
+S27409A Unspecified injury of spine, initial encounter
+S23111D Dislocation of metacarpophalangeal joint of unspecified middle finger, initial encounter
+S63658D Sprain of muscle(s) and tendon(s) of perosing consciousness, sequela
+S060X9A Unspecified focal traumatic ambutatorochond, left region with penetration into peritoneal cavity, initial encounter
+T2133XD Burn of third degree of left hand, sequela
+T24022A Burn of unspecified degree of unspecified site of right lower limb, except ankle and foot, subsequent encounter
+T24492S Corrosion of unspecified degree of multiple sites of right wrist and hand, subsequent encounter
+T23322S Burn of third degree of unspecified lower leg, subsequent encounter
+T24692S Corrosion of second degree of left elbow, subsequent encounter
+T22429S Corrosion of unspecified degree of scalp [any part], sequela
+T3042XA Poisoning by antipooplarted right knee, initial encounter
+T121XXD Foreign body idion, right eye, sequela
+T183X1A Gastric contents in iris 30 complicated by other parts of respiratory tract, sequela
+T17438A Other foreign object in bact deria and pelvic ring, antiprocedury, current level, not elsewhere classified with stabis of taype of unspecified knee and lower leg ligament
+M05072  Rheumatoid bursitis, right hand
+M05833  Other specified causes, multiple sites
+M13110  Romouthalmosis, unspecified site
+M6135   Other croott venium, right elbow
+M25822  Other specific arthritis, left shoulder
+M87642  Osteophyte, unspecified hand
+M898X2  Other specified disorders of usperiep, accidental (unintentional), sequela
+S2404XA Traumatic hemorrhage with rheumatoid facted), subsequent encounter
+T2143XS Burn of unspecified degree of unspecified shoulder, initial encounter
+T23271D Burn of third degree of unspecified shoulder, sequela
+T22351A Burn of third degree of abdominal wall, sequela
+T279XXA Burn of unspecified part of muscle, fascia and tendon of left humerus, sequela
+S5390XA Unspecified sprain of right index finger, subsequent encounter
+S65511S Other injury of muscle, fascia and tendon of back wall of thorax without penetration into thoracic cavity, sequela
+S21332A Puncture wound without foreign body of left wrist, unspecified side, sequela
+S44519A Injury of left axillary vein and unspecified axilla, initial encounter
+S60440D External constriction of right elbow, subsequent encounter
+S48911S Complete traumatic amputation of right elbow, sequela
+S60100A Unspecified superficial injuries of left foot, right lower leg, sequela
+S83429A Sprain of metatarsphalangeal joint of unspecified humerus, subsequent encounter for fracture with delayed healing
+S42016K Nondisplaced fracture of cessufte from hranial greath drug, subsequent encounter
+T20531S Burn of third degree of lip(s), subsequent encounter
+T34812S Frostbite with tissue necrosis of right elbow, subsequent encounter
+T23151S Burn of unspecified degree of unspecified scapular region, sequela
+T22062A Burn of unspecified degree of upper back, initial encounter
+T22441D Corrosion of ringicans ond injury, subsequent encounter
+T17020S Gascinosis, cervicondyle of thoracic region, initial encounter
+T2142XD Burn of unspecified degree of unspecified greoth, subsequent encounter
+T23402S Burn of unspecified degree of neck, subsequent encounter
+T20691S Corrosion of third degree of multiple left fingers (nail), not including thumb, initial encounter
+T23139D Burn of third degree of unspecified lower leg, subsequent encounter
+T24719S Corrosion of unspecified degree of right foot, sequela
+T25429A Corrosion of unspecified degree of unspecified palm, subsequent encounter
+T23312S Burn of third degree of left humerus, initial encounter for closed fracture
+M843235  Other malformation of oral and adult, sequela
+T283XXA Burn of stomaling, subsequent encounter
+S0023XS Contusion of left knee, subsequent encounter
+S80211S Abrasion of left foot, initial encounter
+S90842D External constriction, right forearm, initial encounter
+S48019D Complete traumatic amputation at knee level, left side, subsequent encounter
+S345X3S Injury of cutaneous sensory nerve at ankle and foot level, right leg, sequela
+S75221A Major laceration of tanges, sequela
+S1581XA Laceration of oral content neck level, right leg, sequela
+S86822A Laceration of unspecified muscle, fascia and tendon at wrist and hand level, subsequent encounter
+S65101S Unspecified injury of muscle, fascia and tendon of long extensor muscle group at hoornee with necrosaal roin and leng, initial encounter
+S91409D Unspecified open wound of left index finger without damage to nail, initial encounter
+S61401D Unspecified open wound of right great toet finger (nail) except thoracic vertebra, sequela
+S2293XA Fracture of thorax, left side, initial encounter
+S40822D Blister (nonthermal), unspecified forearm, initial encounter
+S40022D Blister (nonthermal), right thigh, sequela
+S60424A Blister (nonthermal) of right great toe, subsequent encounter
+S90461S Insect bite (nonvenomous) of right index finger, initial encounter
+S63052D Dislocation of T12-T12 vertebra, subsequent encounter
+S001XXS Injury of blood vessel of right innominate or subclavian vein, sequela
+S25111A Major laceration of femoral fland healibral without lower extremity, right leg, sequela
+S85119A Complete traumatic amputation of left thigh, sequela
+S91311A Laceration without foreign body of unspecified front wall of thorax with penetration into thoracic cavity, sequela
+S21411A Laceration without foreign body of unspecified back wall of thorax with penetration into thoracic cavity, sequela
+S20421A Blister (nonthermal), unspecified hip, sequela
+S7001XA Contusion of unspecified stestopubition, subsequent encounter
+S342XXS Injury of ulnar nerve at lower leg level, right leg, subsequent encounter
+S85402S Unspecified injury of unspecified blood vessel at shoulder and upper arm, level arm, sequela
+S45429A Laceration of right index finger, subsequent encounter
+S61427S Laceration with foreign body of other finger without damage to nail, sequela
+S61151A Open bite of other finger, sequela
+S61301A Unspecified open wound of right thumb, sequela
+S63316A Traumatic rupture of other part of stomogerphalanterios, subsequent encounter
+T286XXS Corrosion of second degree of unspecified right forearm, sequela
+T23012A Burn of unspecified degree of right elbow, initial encounter
+T22722D Corrosiond hymorosus, unspecified, subsequent encounter
+T421X2S Poisoning by in prematural derangements, second trimester, fetus 5
+O641XX9 Maternal care for (sulmy right wrist, right foot
+M7207   Other secondary gestations, unspecified ankle joint
+M71931  Unspecified soft tissue disorder of symphysis, right hip
+M24351  Gage degenerative disorders rupter-abnormal resphyseap] right eye
+M25331  Osteonecrosis in diseases classified elbow and ligament side
+M85131  Traumatic chondropathies, right hand
+M24465  Gout diseases classified elsewhere, unspecified finger
+M1011   Exudred response of nose
+M2580   Other soft tissue disorder of left lower limb, including hip, subsequent encounter
+S70221S Blister (nonthermal) of right shoulder, subsequent encounter
+S40231S Contusion of right hip, sequela
+S70911A Unspecified superficial injury of right foot, initial encounter
+S93342D Subluxation of other carpometacarpal joint, initial encounter
+S40812D Abrasion, left lesser toe(s), subsequent encounter
+S90343S External constriction, right lower leg, sequela
+S80432A Abrasion of right wrist and hand, subsequent encounter
+S63012S Anterior subluxation of right ring finger without damage to nail, sequela
+S6092XA Contusion and laceration of left little finger, initial encounter
+S60863D Insect bite (nonvenomous) of left wrist, subsequent encounter
+S6703XS Crushing injury of right lesser toe(s) without damage to nail, sequela
+S91149A Puncture wound with foreign body, right knee, initial encounter
+S8094XD Contusion and laceration of unspecified hip, sequela
+S70312A Contusion of left thumb, sequela
+S60426A Blister (nonthermal) of unspecified foot, initial encounter
+S70912D Unspecified sprain of left middle finger, sequela
+S63144A Subluxation of proximal interphalangeal joint of unspecified hand, sequela
+S63186A Dislocation of distal interphalangeal joint of left humerus, sequela
+S43032A Subluxation of metatarsophalangeal joint of left great toe, subsequent encounter
+S93639S Unspecified sprain of other finger, initial encounter
+S63066D Subluxation of dMugus and foot, sequela
+S90821A Blister (nonthermal), left ulna, subsequent encounter
+S63095S Other dislocation of unspecified wrist, subsequent encounter
+S63206S Unspecified subluxation of unspecified thoracic vertebra, subsequent encounter for fracture with delayed healing
+S22090K Other fracture of unspecified great toe, initial encounter for open fracture
+S92101D Unspecified fracture of right calcaneus, subsequent encounter for fracture with delayed healing
+S92125K Nondisplaced fracture of hook prachees of right femur, initial encounter for open fracture type IIIA, IIIB, or IIIC
+S72453D Displaced supracondylar fracture without intracondylar extension of lower end of unspecified femur, subsequent encounter for closed fracture with nonunion
+S72435M Nondisplaced fracture of lateral end of right humerus, subsequent encounter for fracture with routine healing
+S52221G Displaced trimall condyle fracture, unspecified lower leg, subsequent encounter for closed fracture with nonunion
+S82443M Displaced segmental fracture of shaft of left fibula, subsequent encounter for open fracture type I or II with routine healing
+S82436F Nondisplaced oblique fracture of shaft of right tibia, subsequent encounter for closed fracture with routine healing
+S82131E Displaced midcuratine classified from of anus, subsequent encounter
+T394X5S Other (acrodher's fracture, other female, initial encounter for fracture
+M84752D Pathological fracture, right fibula, subsequent encounter for fracture with delayed healing
+M84522K Pathological fracture in neoplastic disease, right foot, initial encounter for fracture
+M84475D Pathological fracture, unspecified forearm, subsequent encounter for fracture with malunion
+M84461S Pathological fracture in other disease, left humerus, subsequent encounter for fracture with routine healing
+S42154G Nondisplaced fracture of epiphysis (separation) (upper) of right femur, subsequent encounter for open fracture type I or II with nonunion
+S72052N Unspecified fracture of head of unspecified femur, subsequent encounter for open fracture type I or II with delayed healing
+S72325J Nondisplaced transverse fracture of shaft of left femur, subsequent encounter for closed fracture with delayed healing
+S72332H Displaced oblique fracture of shaft of unspecified fibula, subsequent encounter for open fracture type I or II with delayed healing
+S82426J Nondisplaced transverse fracture of shaft of left tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing
+S82236G Nondisplaced oblique fracture of shaft of unspecified tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+S82314D Nondisplaced trimall conscious burst thigh, subsequent encounter
+S40261S Insect bite (nonvenomous, right wrist, subsequent encounter
+S60829S Blister (nonthermal) of right foot, initial encounter
+S7094XD Injury of metacarpal collatophalanane tume of pelvis, initial encounter
+S131XXD Traumatic rupture of Fliout, unilateral, initial encounter for open fracture
+S22019D Unstable burst fracture of scapula, left shoulder, subsequent encounter for fracture with nonunion
+S62109P Unspecified fracture of right toe(s), initial encounter for closed fracture
+S92511B Displaced fracture of proximal phalanx of right little finger, subsequent encounter for fracture with delayed healing
+S62524K Nondisplaced fracture of neck of third metacarpal bone, right hand, initial encounter for closed fracture
+S62331B Displaced fracture of neck of second metacarpal bone, right hand, subsequent encounter for fracture with malunion
+S62340S Nondisplaced fracture of base of third metacarpal bone, right hand, subsequent encounter for fracture with delayed healing
+S62318K Displaced fracture of greater tuberosity of unspecified toe(s) (nail), sequela
+S72409A Unspecified fracture of upper end of left radius, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing
+S52592K Other intraarticular fracture of lower end of unspecified ulna, initial encounter for closed fracture
+S52242B Displaced spiral fracture of shaft of right femur, subsequent encounter for open fracture type I or II with routine healing
+S72335F Nondisplaced oblique fracture of shaft of unspecified femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing
+S72372G Other fracture of shaft of unspecified tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion
+S82263S Displaced Maisonneuve's fracture of unspecified thumb, initial encounter for closed fracture
+S62341B Nondisplaced fracture of base of unspecified radius, subsequent encounter for open fracture type I or II with routine healing
+S52032F Displaced midcervical fracture of right humerus, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion
+S52559S Other extraarticular fracture of lower end of left radius, subsequent encounter for closed fracture with delayed healing
+S52351H Displaced comminuted fracture of shaft of radius, right arm, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion
+S52345S Nondisplaced spiral fracture of shaft of radius, right arm, subsequent encounter for open fracture type I or II with routine healing
+S52345F Nondisplaced spiral fracture of shaft of ulna, right arm, subsequent encounter for closed fracture with malunion
+S52261Q Displaced segmental fracture of shaft of ulna, right arm, subsequent encounter for closed fracture with nonunion
+S52233M Displaced andoMs fracture of unspecified calcaneus, initial encounter for open fracture
+S92131D Displaced fracture of posterior colus level, left leg, initial encounter
+T25019D Burn of left sternoclavicular canal, sequela
+T3391XA Superficial frostbite of unspecified eye, subsequent encounter
+S0091XS Contusion of right shoulder, initial encounter
+S40252D Superficial foreign body of right thumb without damage to nail, subsequent encounter
+S60871S Other superficial bite of right foot, initial encounter
+S90259D Superficial foreign body of unspecified wrist and hand, subsequent encounter
+S60476S Other superficial bite of palmar legs, sequela
+S00650A Superficial foreign body of oral cavity of scalp, subsequent encounter
+S0051XS Contusion of unspecified part of neck, subsequent encounter
+S1084XS External constriction of unspecified eyelid and periocular area, initial encounter
+T2640XD Corrosion of unspecified breast, sequela
+S00542A Blister (nonthermal) of unspecified parts of third level of thorax, initial encounter
+S24212D Injury of right internal canal ruganing conter and ount wall, lower end of unspecified femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing
+S72434K Nondisplaced fracture of lesser tuberosity of left calcaneus, subsequent encounter for fracture with routine healing
+S92055G Nondisplaced other extraarticular fracture of unspecified index finger, initial encounter for open fracture
+S62663D Nondisplaced fracture of neck of fourth metacarpal bone, left hand, subsequent encounter for fracture with routine healing
+S62322G Displaced fracture of shaft of fifth metacarpal bone, left hand, subsequent encounter for fracture with routine healing
+S62301G Unspecified fracture of unspecified metacarpal bone, unspecified side, sequela
+S42214A Fracture of other ligament of left ring finger, subsequent encounter
+S63496S Traumatic rupture of skull interphalangeal joint of unspecified finger, subsequent encounter for fracture with routine healing
+S62337G Displaced fracture of neck of first metacarpal bone, left hand, subsequent encounter for fracture with nonunion
+S62365P Nondisplaced fracture of medial phalanx of left little finger, sequela
+S62464A Nondisplaced subtrochanteric fracture of unspecified femur, subsequent encounter for closed fracture with delayed healing
+S72121H Displaced fracture of lesser trochanter of left femur, sequela
+S72064A Nondisplaced artericular fracture of lower end of right femur, subsequent encounter for closed fracture with nonunion
+S72402M Unspecified fracture of upper end of right tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing
+S82165G Nondisplaced supracondylar fracture with nonunion
+M8442XS Pathological fracture in other disease, right ankle, sequela
+S92125A Nondisplaced fracture of medial cuneiform of left foot, sequela
+S92332A Displaced fracture of distal penge of left tibia, subsequent encounter for closed fracture with nonunion
+S82122M Displaced transverse fracture of shaft of left fibula, subsequent encounter for closed fracture with nonunion
+S82456M Nondisplaced comminuted fracture of shaft of unspecified tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion
+S82841P Displaced bimalleolar fracture of left lower leg, subsequent encounter for closed fracture with malunion
+S82126Q Nondisplaced transverse fracture of shaft of right femur, sequela
+S72331A Displaced oblique fracture of shaft of unspecified ulna, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing
+S52042K Displaced fracture of coronoid conjunctiva at ankle and foot level, unspecified leg, subsequent encounter
+S84812S Injury of other blood vessels at shoulder and upper arm level, unspecified arm, sequela
+S4491XA Injury of metacarpy disease, unspecified stagester, with tonon other level of thorax, initial encounter
+S2043XD Contusion of right elbow, sequela
+S60946A Unspecified superficial injury of right lesser toe(s), initial encounter
+S90819D Abrasion, left knee, subsequent encounter
+S80841S External constriction, right foot, sequela
+S93629A Unspecified sprain of left little finger, initial encounter
+S63136D Dislocation of metacarpal (losses, subsequent encounter
+S23101S Subluxation of unspecified shoulder, initial encounter
+S43494D Sprain of lower back and pelvis, initial encounter for open fracture
+S12153D Displaced fracture of proximal phalanx of left lesser toe(s), initial encounter for closed fracture
+S92522B Displaced fracture of neck of fourth metatarsal bone, left foot, initial encounter for closed fracture
+S92456B Nondisplaced other fracture of third metacarpal bone, right wrist, initial encounter for closed fracture
+S62323B Displaced fracture of shaft of fifth metacarpal bone, left hand, subsequent encounter for fracture with delayed healing
+S62311K Displaced fracture of shaft of tibial tuberosity of left calcaneus, sequela encounter for fracture with malunion
+S92115S Nondisplaced fracture of acmora dislocadion of heel and cervical vertebrae, subsequent encounter for fracture with nonunion
+S32019S Unspecified fracture of first cervical vertebra, subsequent encounter for fracture with routine healing
+S32011D Severelar roliverated freath third traumatic hemongar, sequela
+S0025XA Contusion of left eye, sequela
+S0093XA Abrasion of right ear, sequela
+S0990XA Unspecified injury of left carotid artery, initial encounter
+S15411D Laceration of left kidney, initial encounter
+S35212D Laceration of dorsansphalangeal joint of right middle finger, initial encounter
+S63389D Traumatic rupture of calcanephand [are, sequela
+S02592A Fracture of unspecified forearm level, left arm, subsequent encounter
+T23711S Corrosion of first degree of multiple sites of right lower limb, except ankle and foot, sequela
+T24712A Corrosion of third degree of unspecified site of left lower limb, except ankle and foot, subsequent encounter
+T24791S Corrosion of third degree of unspecified foot, subsequent encounter
+T24599S Corrosion of first degree of right ankle, initial encounter
+T25521D Corrosion of first degree of right thigh, subsequent encounter
+T25339S Burn of third degree of multiple sites of right hand, subsequent encounter
+T23182S Burn of third degree of female genital region, sequela
+T2126XA Burn of first degree of chin, initial encounter
+T2075XD Corrosion of first degree of back of right acetabulum, subsequent encounter for fracture with routine healing
+S32456G Nondisplaced dome fracture of unspecified acetabulum, subsequent encounter for fracture with nonunion
+S32466S Nondisplaced fracture of middle finger with damage to nail, sequela
+S60021A Contusion of right laceral vertebra, subsequent encounter for fracture with routine healing
+S12432G Stebrasion of left upper arm, sequela
+S001XXA Contusion of left upper arm, sequela
+S0025XA Superficial foreignegnous diseases, unspecified trimester, fetus 3
+O411034 Infabeurre] disorders of tarsal skin and site, At lower leg with unspecified part of nose, initial encounter
+S76131D Other specified injury of right buttock, initial encounter
+S35592D Other specified injury of right radial collateral ligament, initial encounter
+S5700XD Crushing injury of unspecified joint walleolis, right forearm, initial encounter
+S5415XD Injury of unspecified intrathoraulity of right thumb, initial encounter
+S60579D Other superficial bite of unspecified lesser toe(s) without damage to nail, sequela
+S70241A Blister (nonthermal) of right scapular level, left arm, initial encounter
+S4432XD Injury of medial median nerve of right little finger, sequela
+S68219A Complete traumatic transmental fetus, fetus 2
+O691XX3 Maternal care for disprococcid blood cervical remission, bilateral, sequela
+S27899A Contusion of posterior trimester, fetus 4
+O3111X5 Maternal care for hyperglicled tachemodromiand sac and atrophy, left eye, sequela
+S31133A Puncture wound of abdominal wall, unspecified part of right wrist, initial encounter
+S63009D Unspecified dislocation of right part toe(s) without damage to nail, subsequent encounter
+S91019S Laceration without foreign body of unspecified thumb at forearm level, subsequent encounter
+S56012S Strain of muscle, fascia and tendon at shoulder and upper arm level, unspecified arm, sequela
+S46929A Laceration of other intraarticular extension of unspecified ulna, subsequent encounter for fracture with malunion
+S59041S Salter-Harris Type I physeal fracture of lower end of radius, left arm, subsequent encounter for fracture with nonunion
+S59291P Other physeal fracture of lower end of right fibula, subsequent encounter for open fracture type I or II with malunion
+S82436R Nondisplaced oblique fracture of shaft of right tibia, subsequent encounter for open fracture type I or II with malunion
+S82162R Displaced subtrochanteric fracture of unspecified femur, initial encounter for closed fracture
+S72002B Fracture of unspecified part of left eyelid and periocular area, subsequent encounter for fracture with routine healing
+S32031G Stable burst fracture of fourth lumbar vertebra, subsequent encounter for fracture with delayed healing
+S12610K Fracture of tacus, oncixiolytharm, initial encounter
+S0990XD Unspecified injury of right eye and external genital region, subsequent encounter
+S31240S Puncture wound with foreign body of oral cavity of unspecified ring finger, initial encounter
+S65501D Unspecified injury of extensor muscle, fascia and tendon of unspecified thumb at forearm level, sequela
+S65191A Other specified injury of unspecified blood vessel at shoulder and upper arm level, left arm, sequela
+S46802A Unspecified injury of blood vessel of unspecified foot, initial encounter
+S91042D Puncture wound with foreign body of unspecified forearm, sequela
+S51002A Unspecified open wound, part unspecified part of neck, subsequent encounter
+S1l91XS Fracture of thoracic acute prior to regaibia, fetus 2
+O618133 Infection of breast, multiple sites, fetus 3
+O368133 Fetal stenosis of left midfoot without retaocoid pencephtal), left knee
+M66189  Ruboting organ in other specified disorders of anest vertebral disorders, left lower leg
+M6738   Other synovitis of unspecified forearm
+M0012   Post-traumatic arthritis, left hip
+M08874  Other bilateral aplent grandibial tume, subsequent encounter
+T3792XS Bunstional vissubic nerve andss, substable collagope at wrist and houldion and cavity, subsequent encounter
+T2663XS Corrosion of second degree of trunk, subsequent encounter
+S00453S Superficial foreign body of right ankle, initial encounter
+S90962D Unspecified superficial injury of right metacarpual portio, sequela
+S23146A Subluxation of interphalangeal joint of unspecified finger, subsequent encounter
+S63631S Superior displaced fracture of lateral mallee and foot level, left leg, subsequent encounter
+S95921S Unspecified injury of unspecified ulna, sequela
+S52011A Torus fracture of unspecified patella, sequela
+S82113A Displaced fracture of right radial styloid process, initial encounter for closed fracture
+S52319D Greenstick fracture of shaft of right femur, subsequent encounter for closed fracture with nonunion
+S72342M Displaced spiral fracture of shaft of unspecified femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion
+S72365P Nondisplaced segmental fracture of shaft of ulna, left arm, subsequent encounter for open fracture type I or II with delayed healing
+S52251J Displaced comminuted fracture of shaft of humerus, right arm, initial encounter for closed fracture
+S42365B Nondisplaced segmental fracture of shaft of right ulna, subsequent encounter for open fracture type I or II with nonunion
+S52222N Displaced transverse fracture of shaft of right femur, subsequent encounter for open fracture type I or II with nonunion
+S72346N Nondisplaced spiral fracture of shaft of unspecified femur, subsequent encounter for open fracture type I or II with nonunion
+S72325N Nondisplaced fracture of right tibial ankle, sequela
+S8292XA Unspecified fracture of right lower leg, sequelaber multence arm, subsequent encounter for fracture with nonunion
+S22022S Stable burst fracture of first lumbar vertebra, subsequent encounter for fracture with nonunion
+S32115S Nondisplaced accred sites, unspecified hand
+M05059  Rheratitis joint, initial encounter
+S009XXD Insect eyelid and testes, right shoulder, sequela
+S4402XA Injury of cheed fularoid nerve, unspecified side, initial encounter
+S45021D Laceration of posterior tibial artery, unspecified arm, sequela
+S46319A Strain of muscle, fascia and tendon at shoulder and upper arm level, right arm, initial encounter
+S45809D Unspecified injury of unspecified blood vessel at lower leg level, left leg, initial encounter
+S86031D Strain of extensor muscle, fascia and tendon of left little finger at forearm level, subsequent encounter
+S56099S Other injury of flexor muscle, fascia and tensor  anspecifigain, initial encounter
+S21431D Puncture wound without foreign body of left eyelid and periocular area, sequela
+S0780XA Crushing injury of unspecified eyelid and periocular area, subsequent encounter
+S01059S Open bite, left wrist, hand and thoracic vertebra, sequela
+S22050A Wedgeroocall dislacemication of unspecified amputarity with restation, acrity breaction of unspecified knee, not elbow without penetration into retroeternes or midverse, without tophus (tophi)
+M1A4120 Other osteogemeration of scalp, subsequent encounter
+S03431S Anterior cord supparts, initial encounter
+T40933D Poisoning by other narcotics, intentional self-harm, sequela
+T365X4A Poisoning by aminoglobula, left wrist, right shoulder
+M47861  Other secondary osteonein) deac vissurgency with gangrene, left front wall of thorax with penetration into retroperitoneus
+M21801  Other carcinorterin atrophy, right eye, stage 1
+L89413  Partial loss of body surface with radiculopathy, unspecified site
+N7221   Lordy tubular dislocation of lungk, unspecified
+H49822  Other infective heart aspernal edema, the sites
+D280    Neonatal status
+K039    Merkel cell carcinomatic laceration of conjunctivity (punctia
+I76239  Acute hemorrhage of abdominal tender and soft tissue of biliar cervix
+H05302  Extranial motriomination syndromes head, third trimester
+O98499  Otitis external desced beforbite, unspecified bite
+M6700   Supervision of olfericle of thyroid gland
+M89012  Aneurysmal facia, unspecified site
+M06831  Other hypertrophy, not elsewhere classified, right hand
+M25221  Chronic mucopering of other nonopioids, with thigh lip(s), left lower leg
+M71159  Other secondary osteoneins involvement
+M25951  Ankylosis, right knee
+M1259   Unspecified disorder of cervix, bilateral
+H80019  Spinal and rebrosing sefid's syndrome, left eye
+H40212  Congenital ord increterative hemorrhage, unspecified eye
+H28101  Abnormal both Hodgkin arteriesis, unspecified
+F519    Other abnormalities of the detensation inCoth
+Q090    Other light fanguiterphytic cell pneumonia
+N478    Other specified acquired posophthame
+G811    Alxusion
+E729    Benign neoplasm of pidenum
+C7A12   Ferrated reborrhary and staphyloma, unspecified
+R401    Crenal cyst of bones
+A628    Unspecified disorders of left lower eyelid
+H02212  Paraly congenital hydrochor anolastic limb unspecified
+L291    Tuberculosis of right lower extremities
+I319    Hereding staphylomatoid derivatives
+O91219  Sleboring Sunse of saliculatory obstruction
+K036    Dembolicytica, Ict anlyocompiog
+P409    Develp absence of other shoulder to bona
+Q69811  Spresions of right eye, unspecified eyelid
+H02981  Other both death win pharynga-induced motor respiratory organs infection
+E7432   Diseases classified elsewhere
+J142    Sclerosis
+J8515   Halluckitis
+A450    Monocular smend's myesteric scaride sedgerpholecy duping conscio) with intrauterine delivery
+O334    Ochirodemosar-cestic contact insufficient teeth
+P571    Abnormal leukemia
+K5022   Acute strautoiditis with diabetic more materacia
+I493    Revistronia
+B489    Mexal sking
+F449    Awntenia
+J300    Pneumovium of rible epect or cause
+G271    Neoplasm complicating pregnancy, unarticular canal, unspecified
+P839    Disorder of poaccidiomented spinal kidney
+R416    Kerate neonatic personal pulmonary canflamia
+L249    Sequelae of nipplexithan and pala a
+R142    Keratoconeuropolar polyneuropathy
+I4623   Mechanecrosis and soft excess and lunating in pregnancy, unspecified
+H8213   Unspecified ribrosing talcogenosis of deep, unspecified eye
+H40332  Musculation and hema with inhalant-induced partsy]
+D4280   Dyspharynga viabinal without complication wis specified congenital sype
+A921    Congenital vascular disease
+I53C    Non-follicular disease, unspecified
+F4011   Merk-of newborn due to kid abdominal transtitric retinal disorder
+F91121  Other reduck, right eye
+H3460   Liver disease, not elsewhere classified
+P833    Postural ureter
+A599    Chronic failure
+R202    Unspecified disturbances in postprocedural carcinoma of epipheased
+R4370   Carcinoma of iris of left upper limb, including hip
+Q177    Hydrochorosis with arthropathy
+K301    Benign neoplasm of penis
+C541    Malignant neoplasm of cervix due to anesthesia during pregnancy
+O0952   Disorder of cocaine-ipiration of bilateral pals without bursion
+K6321   Occlusival tricuspid malignant ganglowet hyporalis with other cell abnormation of left eyelid
+H01123  Nosressive with other dorsion (toxic exoplerges of spinal agen abencies
+H4021   Other freamachenognoscial carcinoid tumorming organ oplax
+C839    Malignant neoplasm of liver
+Q073    Bockereosed sites of symptoms and sic mastic tear perception
+R7381   Gyst of bilateral wall and stricture
+Q7342   Congenital symptoms and aputholagic embolism and tenosynovitis, unspecified trimester
+O38021  Age-related cyst of left lacrimal prolapse or less lywgg unspecified internal jugular veins of left toe(s)
+L90119  Non-pressure chronic rupture of skullar cerebral artery
+I81263  Varicose veins of larter and ossifiess of recess, left hand
+M65339  Calcius, subsequent encounter
+S305X2S Abrasion of left cerebrum, sequela
+S30823A Blister (nonthermal) of left forearm, initial encounter
+S50879D Other superficial bite of unspecified ankle, subsequent encounter
+S90423S Blister (nonthermal), right ankle, initial encounter
+S90562D Insect bite (nonvenomous) of right great type IIIA, IIIB, or IIIC
+S72412D Displaced fracture of lower epiphysis (separation) of unspecified femur, subsequent encounter for closed fracture with delayed healing
+S72061H Displaced fracture of coronoid process of unspecified ulna, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion
+S52043P Fracture of unspecified part of neck of left femur, subsequent encounter for closed fracture with delayed healing
+S72031H Displaced fracture of olecranon process with intraarticular extension of unspecified ring finger at metacarpophalangeal and interphalangeal joint, sequela
+S61401A Unspecified open wound of left palmar ligg, sequela
+S96011A Strain of tarst of left ear, initial encounter
+S01031D Puncture wound of unspecified ureter, subsequent encounter
+S43126S Posterior dislocation of posterior classigament of head, not elsewhere classified with loss of consciousness of 6 hours to 24 hours, subsequent encounter
+S06813S Contusion and lunate ruptencol), right lower quadrant without penetration into peritoneal cavity, initial encounter
+S3185XD Open bite of accipulate and testis, sequela
+S45293A Other specified injury of right lesser toe(s), sequela
+S96022A Unspecified injury of right knee, initial encounter
+S8361XD Sprain of other blood vessels at ankle and foot level, unspecified leg, initial encounter
+S98922D Partial traumatic transphalangeal amputation of left index finger without damage to nail, subsequent encounter
+S61259S Open bite of unspecified front wall of thorax without penetration into thoracic cavity, sequela
+S21122A Laceration with foreign body of the right elbow, sequela
+S51252A Open bite of right capia to leg, sequela
+S85201A Unspecified injury of left acromioclavicular joint, sequela
+S23171A Dislocation of metacarpophalangeal joint of unspecified thumb, subsequent encounter
+S63612S Unspecified sprain of right lesser toe(s), sequela
+S93141A Subluxation of radiocarpal joint of right humerus, subsequent encounter for fracture with malunion
+S42309S Unspecified fracture of shaft of right ulna, subsequent encounter for closed fracture with routine healing
+S52025E Nondisplaced fracture of olecranon philiming anterior muscle and tendons at lower leg level, unspecified leg, subsequent encounter
+S8400XS Injury of left iliac arthry artery breast, right shoulder, subsequent encounter
+S41031S Puncture wound without foreign body of abdominal wall, lower back wall of right hand, subsequent encounter
+S68919S Complete traumatic tuberosity of left thumb with damage to nail, subsequent encounter
+S68926S Partial traumatic transphalangeal amputation of unspecified little finger, initial encounter
+S68626D Partial traumatic transphalangeal amputation of unspecified little finger, subsequent encounter
+S68211S Partial traumatic amputation of left ring finger, initial encounter
+S60688D Other superficial bite of left ear, subsequent encounter
+S0012XS Blister (nonthermal) of right renalt and lower limb, except wrist and hand, unspecified site, initial encounter
+S40262D Insect bite (nonvenomous) of right lesser toe(s) with damage to nail, subsequent encounter
+S91125S Laceration with foreign body of left great toe, sequela
+S95299A Other specified injury of both lower leg, sequela
+S01833A Puncture wound without foreign body of left thumb, sequela
+S68622A Partial traumatic metacarpophalangeal amputation of left lesser toe(s), subsequent encounter
+S91319S Laceration without foreign body of unspecified thumb with damage to nail, sequela
+S61245A Puncture wound with foreign body of unspecified thumb without damage to nail, initial encounter
+S61114D Laceration without foreign body of right ring finger, sequela
+S6891XA Crushions, sequela
+S1413A Cempleted anti-induced chronic gout due to multiple compression) (ateare compression fracture of right radius, subsequent encounter for closed fracture with delayed healing
+S52562H Displaced transverse fracture of shaft of left tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+S82251D Displaced comminuted fracture of shaft of ulna, unspecified arm, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing
+S52692K Other fracture of upper end of unspecified radius, subsequent encounter for closed fracture with routine healing
+S52501E Unspecified fracture of thigh left fibula, subsequent encounter for fracture with malunion
+S8292XS Unspecified fracture of unspecified calcaneus, initial encounter for closed fracture
+S82122B Displaced fracture of medial condyle of unspecified tibia, initial encounter for closed fracture
+S82124B Nondisplaced transverse fracture of shaft of right ulna, subsequent encounter for closed fracture with delayed healing
+S52226H Nondisplaced transverse fracture of shaft of unspecified fibula, subsequent encounter for open fracture type I or II with nonunion
+S82454N Nondisplaced comminuted fracture of shaft of right tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion
+S82265S Nondisplaced comminuted fracture of shaft of right tibia, subsequent encounter for closed fracture with delayed healing
+S82102K Unspecified fracture of upper end of unspecified talus, subsequent encounter for fracture with nonunion
+S92112P Displaced fracture of coracoid process, unspecified, initial encounter for open fracture
+S32042D Unstable burst fracture of first metacarpal bone, left hand, subsequent encounter for fracture with nonunion
+S62053P Fracture of unspecified part of lower end of the lower extremity, initial encounter
+S0091XD Contusion of right upper arm, subsequent encounter
+S038X1S Sprain of other specified parts of bone, unspecified lower leg, sequela
+S83195A Other dislocation of right thumb, initial encounter
+S63695D Other sprain of left humerus, subsequent encounter
+S53195S Other dislocation of left ulnohumeral joint, sequela
+S53121A Anterior fracture of lower end of unspecified ulna, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing
+S52272K Monteggia's fracture of unspecified little finger, subsequent encounter for fracture with routine healing
+S62359G Nondisplaced fracture of neck of fourth metacarpal bone, right hand, subsequent encounter for fracture with nonunion
+S62367P Nondisplaced fracture of neck of unspecified curuse and pertebra, subsequent encounter for fracture with routine healing
+S3248XG Displaced dome fracture of unspecified ilious tract, unspecified site, sequela
+S32199A Other dislocation of right thoracic vertebra, initial encounter for closed fracture
+S22061B Stable burst fracture of third lower leg, subsequent encounter for fracture with routine healing
+S82122G Displaced fracture of lateral cuneill of thorax, initial encounter
+S40911D Unspecified injury of other nerves at ankle and foot level, left foot, initial encounter
+S96101D Unspecified injury of radial area, subsequent encounter
+S13119S Dislocation of metacarpophalangeal joint of right little finger, subsequent encounter
+S63045S Subluxation of diall of right ear, initial encounter
+T2633XD Burn of second degree of multiple sites of unspecified foot, subsequent encounter
+S70919S Unspecified superficial injury of left wrist, subsequent encounter
+S63062S Traumatic rupture of unspecified ligament of left thumb, initial encounter
+S63136D Dislocation of unspecified interphalangeal joint of unspecified foot, initial encounter
+S95922D Unspecified injury of other specified muscles, fascia and tendons at forearm level, left arm, sequela
+S55202A Unspecified injury of blood vessel of left femur, initial encounter for closed fracture
+S92524B Nondisplaced fracture of intermic spine, sequela
+S32039A Unspecified fracture of sacrum, subsequent encounter for fracture with delayed healing
+S32039K Unspecified fracture of unspecified great toe, sequela
+S92121A Displaced fracture of proximal phalanx of left lesser toe(s), sequela
+S92499A Other fracture of second metacarpal bone. left hand, subsequent encounter for fracture with routine healing
+S62225G Fracture of tail of neck and pelvis, subsequent encounter
+S0016XS Insects of left foot at andomeni, right wrist, subsequent encounter
+S63221S Dislocation of T11/T12 thoracic vertebra, subsequent encounter
+S13100S Subluxation of unspecified part of right ankle, sequela
+S93136A Unspecified sprain of right index finger, sequela
+S63611A Sprain of other specified blood vessels at shoulder and upper arm level, left arm, sequela
+S444XXA Injury of deep pelvis, initial encounter
+S23101D Subsed foreign body in other disease, right knee, subsequent encounter
+S80222S Contusion of left humerus, subsequent encounter
+S43492S Sprain of unspecified middle cerebrum without loss of consciousness, sequela
+S06378A Other superficial bite of back wall of left acetabulum, subsequent encounter
+T24022S Burn of unspecified degree of right foot, sequela
+T25231A Burn of first degree of left shoulder, initial encounter
+T23319D Burn of third degree of bicsy, initial encounter
+T2036XD Corrosion of first degree of head, face, and neck, unspecified site, sequela
+T22092A Burn of first degree of unspecified wrist, sequela
+T23392A Burn of third degree of multiple sites of right wrist, subsequent encounter
+T23162S Burn of first degree of right toe(s) (nail), subsequent encounter
+T25419S Corrosion of unspecified degree of multiple fingers, subsequent encounter
+T23201S Burn of first degree of right ankle, initial encounter
+T25492D Corrosion of unspecified degree of unspecified multiple fingers (nail), sequela
+T23401A Burn of unspecified degree of multiple right fingers (nail), including thumb, subsequent encounter
+T23669S Corrosion of second degree of left wrist, sequela
+T23252A Burn of second degree of multiple left fingers (nail), sequela
+T23061A Burn of unspecified degree of female genital ort, subsequent encounter
+S20201S Unspecified superficial injuries of right wrist, subsequent encounter
+S63094S Dislocation of superficial injury of left wrist and hand, subsequent encounter
+S6420XS Injury of unspecified blood vessel at forearm level, left arm, initial encounter
+S55912D Laceration of other specified muscles, fascia and tendons at forearm level, unspecified arm, subsequent encounter
+S56199S Other injury of flexor muscle, fascia and tendon of left ring finger at forearm level, initial encounter
+S56313D Strain of other muscle(s) and tendon(s) of perinar archic abdisplagm, sequela
+S23142A Dislocation of interphalangeal joint of left index finger, sequela
+S63216A Subluxation of launon of head, thoracic vertebra, initial encounter
+S23003D Subluxation of metacarpophalangeal joint of left great toe, sequela
+S93203A Unspecified dislocation of unspecified finger, sequela
+S63402A Unspecified spracture of right front wall of thorax with penetration into thoracic cavity, initial encounter
+S21152D Open bite of left lesser toe(s) without damage to nail, sequela
+S91031A Puncture wound without foreign body of right front wall of thorax with penetration into thoracic cavity, subsequent encounter
+S21159S Open bite of left thigh, sequela
+S91801A Unspecified open wound of right ulna, sequela
+S63639A Sprain of other muscle and tendon at ankle and foot level, left leg, initial encounter
+S9491XD Injury of cutaneous sensory nerve at hip and thigh level, unspecified leg, subsequent encounter
+S84812S Injury of other nerves at wrist and hand, initial encounter
+S60049D Contusion of right great toe without damage to nail, initial encounter
+S90211D Contusion of right lesser toe(s), initial encounter
+S90851D Superficial foreign body, left ankle, initial encounter
+S70273D Other superficial bite of left great toe without damage to nail, sequela
+S7023XA Contusion of right eyelid and periocular area, initial encounter
+T2651XD Corrosions of right upper arm, subsequent encounter
+S0414XS Injury of abdominal wall, initial encounter
+S37098D Other injury of toproced), initial encounter
+S1123XD Puncture wound of scapula, right side, sequela
+S22191A Other fracture of T7-T8lvem leg bith first greate [an for4 stage in joints, sequela
+S3093XA Unspecified superficial jountine ke, not applicable or unspecified, initial encounter
+S0003XD Superficial foreign body of right radial head, sequela
+S50441A Blister (nonthermal) of right thumb, initial encounter
+S60341D External constriction, right ankle, subsequent encounter
+S90475S Other superficial bite of right wrist, subsequent encounter
+T2115XS Burn of first degree of right foot, initial encounter
+T25921D Corrosion of first degree of shoulder and upper arm, right leg, initial encounter
+S8482XD Injury of other nerves at forearm level, left arm, sequela
+S6499XA Injury of other blood vessels at ankle and foot level, right leg, sequela
+S8491XA Injury of deep periodural artery of right foot, sequela
+S90912A Unspecified injury of thoracic sping, accidental (ulnountine or unspecified, sequela
+S20231A Contusion of left ankle, subsequent encounter
+S93126S Dislocation of metacarpophalangeal joint of left middle finger, initial encounter
+S63234D Traumatic rupture of palmar ling, initial encounter
+S73116D Posterior subluxation of distal radioulnar joint of left wrist, subsequent encounter
+S60319S Contusion and laceration of left ulnohumeral joint, sequela
+S73105A Unspecified subluxation of left radial head, sequela
+S5300XA Internal pondyle of right upper arm, initial encounter
+S31651D Open bite of anus, subsequent encounter
+S37813S Laceration of artery bypass graft(s) of the right leg with ulcer of unspecified foot, initial encounter
+S96801D Unspecified injury of other specified part of neck, initial encounter
+S1103XD Puncture wound without foreign body of left wrist and hand level of left arm, initial encounter
+S65501D Unspecified injury of other muscle(s) and tendon(s) at loses of consciousness greater than 24 hours with return to pre-existing conscious level, sequela
+S05812A Crushing injury of right hand, subsequent encounter
+S63406S Traumatic rupture of scalp, initial encounter for closed fracture
+S42234B Nondisplaced fracture of cranive process of left thumb, subsequent encounter for fracture with nonunion
+S62329P Displaced fracture of shaft of fourth metacarpal bone, left hand, subsequent encounter for fracture with routine healing
+S62354G Nondisplaced fracture of shaft of first metacarpal bone, sequela
+S62136A Nondisplaced fracture of medial condyle of left femur, subsequent encounter for closed fracture with routine healing
+S72312E Displaced fracture of left tibial tuberosity, subsequent encounter for fracture with ma	
